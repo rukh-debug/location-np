@@ -24,4 +24,4 @@ Feel free to use it in your projects.
 
 ### Todo
 
-- [] Translate to eng
+- [ ] Translate to eng
