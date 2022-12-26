@@ -1,14 +1,14 @@
 {
-  "प्रदेश १": {
-    "ताप्लेजुङ": {
-      "आठराई त्रिवेणी Rural Municipality": [
+  "Province 1": {
+    "Taplejung": {
+      " Aathrai Tribeni Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "फक्ताङलुङ Rural Municipality": [
+      "Phaktanglung Rural Municipality": [
         "1",
         "2",
         "3",
@@ -17,7 +17,7 @@
         "6",
         "7"
       ],
-      "फुङलिङ Municipality": [
+      "Phungling Municipality": [
         "1",
         "2",
         "3",
@@ -30,14 +30,14 @@
         "10",
         "11"
       ],
-      "मिक्वाखोला Rural Municipality": [
+      "Mikwakhola Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "मेरिङदेन Rural Municipality": [
+      "Meringden Rural Municipality": [
         "1",
         "2",
         "3",
@@ -45,7 +45,7 @@
         "5",
         "6"
       ],
-      "मैवाखोला Rural Municipality": [
+      "Maiwakhola Rural Municipality": [
         "1",
         "2",
         "3",
@@ -53,7 +53,7 @@
         "5",
         "6"
       ],
-      "पाथीभरा याङवरक Rural Municipality": [
+      "Pathivara Yangwarak Rural Municipality": [
         "1",
         "2",
         "3",
@@ -61,7 +61,7 @@
         "5",
         "6"
       ],
-      "सिदिङ्वा Rural Municipality": [
+      "Sidingba Rural Municipality": [
         "1",
         "2",
         "3",
@@ -70,7 +70,7 @@
         "6",
         "7"
       ],
-      "सिरीजङ्घा Rural Municipality": [
+      "Sirijangha Rural Municipality": [
         "1",
         "2",
         "3",
@@ -81,22 +81,22 @@
         "8"
       ]
     },
-    "पाँचथर": {
-      "कुम्मायक Rural Municipality": [
+    "Panchthar": {
+      "Kummayak Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "तुम्वेवा Rural Municipality": [
+      "Tumbewa Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "फालेलुङ Rural Municipality": [
+      "Falelung Rural Municipality": [
         "1",
         "2",
         "3",
@@ -106,7 +106,7 @@
         "7",
         "8"
       ],
-      "फाल्गुनन्द Rural Municipality": [
+      "Falgunanda Rural Municipality": [
         "1",
         "2",
         "3",
@@ -116,7 +116,7 @@
         "7",
         "8"
       ],
-      "फिदिम Municipality": [
+      "Phidim Municipality": [
         "1",
         "2",
         "3",
@@ -132,7 +132,7 @@
         "13",
         "14"
       ],
-      "मिक्लाजुङ Rural Municipality": [
+      "Miklajung Rural Municipality": [
         "1",
         "2",
         "3",
@@ -148,7 +148,7 @@
         "13",
         "14"
       ],
-      "याङवरक Rural Municipality": [
+      "Yangwarak Rural Municipality": [
         "1",
         "2",
         "3",
@@ -156,7 +156,7 @@
         "5",
         "6"
       ],
-      "हिलिहाङ Rural Municipality": [
+      "Hilihang Rural Municipality": [
         "1",
         "2",
         "3",
@@ -165,8 +165,8 @@
         "6"
       ]
     },
-    "ईलाम": {
-      "इलाम Municipality": [
+    "Ilam": {
+      "Illam Municipality": [
         "1",
         "2",
         "3",
@@ -175,7 +175,7 @@
         "6",
         "7"
       ],
-      "चुलाचुली Rural Municipality": [
+      "Chulachuli Rural Municipality": [
         "1",
         "2",
         "3",
@@ -183,7 +183,7 @@
         "5",
         "6"
       ],
-      "देउमाई Municipality": [
+      "Deumai Municipality": [
         "1",
         "2",
         "3",
@@ -194,7 +194,7 @@
         "8",
         "9"
       ],
-      "फाकफोकथुम Rural Municipality": [
+      "Fakphokthum Rural Municipality": [
         "1",
         "2",
         "3",
@@ -203,7 +203,7 @@
         "6",
         "7"
       ],
-      "माई Municipality": [
+      "Mai Municipality": [
         "1",
         "2",
         "3",
@@ -215,7 +215,7 @@
         "9",
         "10"
       ],
-      "माईजोगमाई Rural Municipality": [
+      "Maijogmai Rural Municipality": [
         "1",
         "2",
         "3",
@@ -223,7 +223,7 @@
         "5",
         "6"
       ],
-      "माङसेबुङ Rural Municipality": [
+      "Mangsebung Rural Municipality": [
         "1",
         "2",
         "3",
@@ -231,7 +231,7 @@
         "5",
         "6"
       ],
-      "रोङ Rural Municipality": [
+      "Rong Rural Municipality": [
         "1",
         "2",
         "3",
@@ -239,14 +239,14 @@
         "5",
         "6"
       ],
-      "सन्दकपुर Rural Municipality": [
+      "Sandakpur Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "सूर्योदय Municipality": [
+      "Suryodaya Municipality": [
         "1",
         "2",
         "3",
@@ -263,8 +263,8 @@
         "14"
       ]
     },
-    "झापा": {
-      "अर्जुनधारा Municipality": [
+    "Jhapa": {
+      "Arjundhara Municipality": [
         "1",
         "2",
         "3",
@@ -277,7 +277,7 @@
         "10",
         "11"
       ],
-      "कचनकवल Rural Municipality": [
+      "Kachankawal Rural Municipality": [
         "1",
         "2",
         "3",
@@ -286,7 +286,7 @@
         "6",
         "7"
       ],
-      "कन्काई Municipality": [
+      "Kankai Municipality": [
         "1",
         "2",
         "3",
@@ -297,7 +297,7 @@
         "8",
         "9"
       ],
-      "कमल Rural Municipality": [
+      "Kamal Rural Municipality": [
         "1",
         "2",
         "3",
@@ -306,7 +306,7 @@
         "6",
         "7"
       ],
-      "गौरादह Municipality": [
+      "Gauradhaha Municipality": [
         "1",
         "2",
         "3",
@@ -317,7 +317,7 @@
         "8",
         "9"
       ],
-      "गौरीगंज Rural Municipality": [
+      "Gauriganj Rural Municipality": [
         "1",
         "2",
         "3",
@@ -325,7 +325,7 @@
         "5",
         "6"
       ],
-      "झापा Rural Municipality": [
+      "Jhapa Rural Municipality": [
         "1",
         "2",
         "3",
@@ -334,7 +334,7 @@
         "6",
         "7"
       ],
-      "दमक Municipality": [
+      "Damak Municipality": [
         "1",
         "2",
         "3",
@@ -346,7 +346,7 @@
         "9",
         "10"
       ],
-      "बाह्रदशी Rural Municipality": [
+      "Barhadashi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -355,7 +355,7 @@
         "6",
         "7"
       ],
-      "बुद्धशान्ति Rural Municipality": [
+      "Buddhashanti Rural Municipality": [
         "1",
         "2",
         "3",
@@ -364,7 +364,7 @@
         "6",
         "7"
       ],
-      "भद्रपुर Municipality": [
+      "Bhadrapur Municipality": [
         "1",
         "2",
         "3",
@@ -376,7 +376,7 @@
         "9",
         "10"
       ],
-      "मेची नगर Municipality": [
+      "Mechinagar Municipality": [
         "1",
         "2",
         "3",
@@ -393,7 +393,7 @@
         "14",
         "15"
       ],
-      "विर्तामोड Municipality": [
+      "Birtamod Municipality": [
         "1",
         "2",
         "3",
@@ -405,7 +405,7 @@
         "9",
         "10"
       ],
-      "शिवसताक्षि Municipality": [
+      "Shivasataxi Municipality": [
         "1",
         "2",
         "3",
@@ -418,7 +418,7 @@
         "10",
         "11"
       ],
-      "हल्दीवारी Rural Municipality": [
+      "Haldibari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -426,8 +426,8 @@
         "5"
       ]
     },
-    "संखुवासभा": {
-      "खाँदवारी Municipality": [
+    "Sankhuwasabha": {
+      "Khandbari Municipality": [
         "1",
         "2",
         "3",
@@ -440,14 +440,14 @@
         "10",
         "11"
       ],
-      "चिचिला Rural Municipality": [
+      "Chichila Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "चैनपुर Municipality": [
+      "Chainpur Municipality": [
         "1",
         "2",
         "3",
@@ -460,7 +460,7 @@
         "10",
         "11"
       ],
-      "धर्मदेवी Municipality": [
+      "Dharmadevi Municipality": [
         "1",
         "2",
         "3",
@@ -471,7 +471,7 @@
         "8",
         "9"
       ],
-      "पाँचखपन Municipality": [
+      "Panchakhapan Municipality": [
         "1",
         "2",
         "3",
@@ -482,14 +482,14 @@
         "8",
         "9"
       ],
-      "भोटखोला Rural Municipality": [
+      "Bhotkhola Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "मकालु Rural Municipality": [
+      "Makalu Rural Municipality": [
         "1",
         "2",
         "3",
@@ -497,7 +497,7 @@
         "5",
         "6"
       ],
-      "मादी Municipality": [
+      "Madi Municipality": [
         "1",
         "2",
         "3",
@@ -508,7 +508,7 @@
         "8",
         "9"
       ],
-      "सभापोखरी Rural Municipality": [
+      "Sabhapokhari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -516,7 +516,7 @@
         "5",
         "6"
       ],
-      "सिलीचोङ Rural Municipality": [
+      "Silichong Rural Municipality": [
         "1",
         "2",
         "3",
@@ -524,8 +524,8 @@
         "5"
       ]
     },
-    "तेह्रथुम": {
-      "आठराई  Rural Municipality": [
+    "Terhathum": {
+      "Aathrai Rural Municipality": [
         "1",
         "2",
         "3",
@@ -534,7 +534,7 @@
         "6",
         "7"
       ],
-      "छथर Rural Municipality": [
+      "Chhathar Rural Municipality": [
         "1",
         "2",
         "3",
@@ -542,14 +542,14 @@
         "5",
         "6"
       ],
-      "फेदाप  Rural Municipality": [
+      "Phedap  Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "मेन्छयायेम Rural Municipality": [
+      "Menchayam Rural Municipality": [
         "1",
         "2",
         "3",
@@ -557,7 +557,7 @@
         "5",
         "6"
       ],
-      "म्याङलुङ Municipality": [
+      "Mayanglung Municipality": [
         "1",
         "2",
         "3",
@@ -569,7 +569,7 @@
         "9",
         "10"
       ],
-      "लालिगुँरास Municipality": [
+      "Laligurans Municipality": [
         "1",
         "2",
         "3",
@@ -581,8 +581,8 @@
         "9"
       ]
     },
-    "भोजपुर": {
-      "अरुण Rural Municipality": [
+    "Bhojpur": {
+      "Arun Rural Municipality": [
         "1",
         "2",
         "3",
@@ -622,7 +622,7 @@
         "5",
         "6"
       ],
-      "भोजपुर Municipality": [
+      "Bhojpur Municipality": [
         "1",
         "2",
         "3",
@@ -636,7 +636,7 @@
         "11",
         "12"
       ],
-      "रामप्रसाद राई Rural Municipality": [
+      "Ramprasad Rai Rural Municipality": [
         "1",
         "2",
         "3",
@@ -646,7 +646,7 @@
         "7",
         "8"
       ],
-      "षडानन्द Municipality": [
+      "Shadananda Municipality": [
         "1",
         "2",
         "3",
@@ -662,7 +662,7 @@
         "13",
         "14"
       ],
-      "साल्पासिलिछो Rural Municipality": [
+      "Salpasilchho Rural Municipality": [
         "1",
         "2",
         "3",
@@ -670,7 +670,7 @@
         "5",
         "6"
       ],
-      "हतुवागढी Rural Municipality": [
+      "Hatuwagadhi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -682,8 +682,8 @@
         "9"
       ]
     },
-    "धनकुटा": {
-      "सहिदभूमि Rural Municipality": [
+    "Dhankuta": {
+      "Shahidbhumi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -692,7 +692,7 @@
         "6",
         "7"
       ],
-      "चौविसे Rural Municipality": [
+      "Chaubise Rural Municipality": [
         "1",
         "2",
         "3",
@@ -702,7 +702,7 @@
         "7",
         "8"
       ],
-      "छथर जोरपाटी Rural Municipality": [
+      "Chhathar Jorpati Rural Municipality": [
         "1",
         "2",
         "3",
@@ -710,7 +710,7 @@
         "5",
         "6"
       ],
-      "धनकुटा Municipality": [
+      "Dhankuta Municipality": [
         "1",
         "2",
         "3",
@@ -722,7 +722,7 @@
         "9",
         "10"
       ],
-      "पाख्रिवास Municipality": [
+      "Pakhribas Municipality": [
         "1",
         "2",
         "3",
@@ -734,7 +734,7 @@
         "9",
         "10"
       ],
-      "महालक्ष्मी Municipality": [
+      "Mahalaxmi Municipality": [
         "1",
         "2",
         "3",
@@ -745,7 +745,7 @@
         "8",
         "9"
       ],
-      "सागुरीगढी Rural Municipality": [
+      "Sangurigadhi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -758,8 +758,8 @@
         "10"
       ]
     },
-    "मोरङ": {
-      "उर्लावारी Municipality": [
+    "Morang": {
+      "Uralabari Municipality": [
         "1",
         "2",
         "3",
@@ -770,7 +770,7 @@
         "8",
         "9"
       ],
-      "कटहरी Rural Municipality": [
+      "Katahari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -779,7 +779,7 @@
         "6",
         "7"
       ],
-      "कानेपोखरी Rural Municipality": [
+      "Kanepokhari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -788,7 +788,7 @@
         "6",
         "7"
       ],
-      "केरावारी Rural Municipality": [
+      "Kerabari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -800,7 +800,7 @@
         "9",
         "10"
       ],
-      "ग्रामथान Rural Municipality": [
+      "Gramthan Rural Municipality": [
         "1",
         "2",
         "3",
@@ -809,7 +809,7 @@
         "6",
         "7"
       ],
-      "जहदा Rural Municipality": [
+      "Jahada Rural Municipality": [
         "1",
         "2",
         "3",
@@ -818,7 +818,7 @@
         "6",
         "7"
       ],
-      "धनपालथान Rural Municipality": [
+      "Dhanpalthan Rural Municipality": [
         "1",
         "2",
         "3",
@@ -827,7 +827,7 @@
         "6",
         "7"
       ],
-      "पथरी शनिश्चरे Municipality": [
+      "Patahrishanishchare Municipality": [
         "1",
         "2",
         "3",
@@ -839,7 +839,7 @@
         "9",
         "10"
       ],
-      "बुढीगंगा Rural Municipality": [
+      "Budhiganga Rural Municipality": [
         "1",
         "2",
         "3",
@@ -848,7 +848,7 @@
         "6",
         "7"
       ],
-      "बेलवारी Municipality": [
+      "Belbari Municipality": [
         "1",
         "2",
         "3",
@@ -861,7 +861,7 @@
         "10",
         "11"
       ],
-      "मिक्लाजुङ Rural Municipality": [
+      "Miklajung Rural Municipality": [
         "1",
         "2",
         "3",
@@ -872,7 +872,7 @@
         "8",
         "9"
       ],
-      "रंगेली Municipality": [
+      "Rangeli Municipality": [
         "1",
         "2",
         "3",
@@ -883,7 +883,7 @@
         "8",
         "9"
       ],
-      "रतुवामाई Municipality": [
+      "Ratuwamai Municipality": [
         "1",
         "2",
         "3",
@@ -895,7 +895,7 @@
         "9",
         "10"
       ],
-      "लेटाङ Municipality": [
+      "Letang Municipality": [
         "1",
         "2",
         "3",
@@ -906,7 +906,7 @@
         "8",
         "9"
       ],
-      "विराटनगर महाMunicipality": [
+      "Biratnagar Metropolitan City": [
         "1",
         "2",
         "3",
@@ -927,7 +927,7 @@
         "18",
         "19"
       ],
-      "सुनवर्षी Municipality": [
+      "Sunwarshi Municipality": [
         "1",
         "2",
         "3",
@@ -938,7 +938,7 @@
         "8",
         "9"
       ],
-      "सुन्दरहरैंचा Municipality": [
+      "Sundarharaicha Municipality": [
         "1",
         "2",
         "3",
@@ -953,8 +953,8 @@
         "12"
       ]
     },
-    "सुनसरी": {
-      "ईटहरी उपमहाMunicipality": [
+    "Sunsari": {
+      "Itahari Sub-Metropolitan City": [
         "1",
         "2",
         "3",
@@ -976,7 +976,7 @@
         "19",
         "20"
       ],
-      "ईनरुवा Municipality": [
+      "Inaruwa Municipality": [
         "1",
         "2",
         "3",
@@ -988,7 +988,7 @@
         "9",
         "10"
       ],
-      "कोशी Rural Municipality": [
+      "Koshi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -998,7 +998,7 @@
         "7",
         "8"
       ],
-      "गढी Rural Municipality": [
+      "Gadhi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1006,7 +1006,7 @@
         "5",
         "6"
       ],
-      "दुहवी Municipality": [
+      "Duhabi Municipality": [
         "1",
         "2",
         "3",
@@ -1020,7 +1020,7 @@
         "11",
         "12"
       ],
-      "देवानगन्ज Rural Municipality": [
+      "Dewanganj Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1029,7 +1029,7 @@
         "6",
         "7"
       ],
-      "धरान उपमहाMunicipality": [
+      "Dharan Sub-Metropolitan City": [
         "1",
         "2",
         "3",
@@ -1051,7 +1051,7 @@
         "19",
         "20"
       ],
-      "बराहक्षेत्र Municipality": [
+      "Barahchhetra Municipality": [
         "1",
         "2",
         "3",
@@ -1064,7 +1064,7 @@
         "10",
         "11"
       ],
-      "बर्जु Rural Municipality": [
+      "Barju Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1072,7 +1072,7 @@
         "5",
         "6"
       ],
-      "भोक्राहा नरसिंह Rural Municipality": [
+      "Bhokraha Narsing Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1082,7 +1082,7 @@
         "7",
         "8"
       ],
-      "रामधुनी Municipality": [
+      "Ramdhuni Municipality": [
         "1",
         "2",
         "3",
@@ -1093,7 +1093,7 @@
         "8",
         "9"
       ],
-      "हरिनगर Rural Municipality": [
+      "Harinagar Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1103,15 +1103,15 @@
         "7"
       ]
     },
-    "सोलुखुम्बु": {
-      "खुम्वु पासाङल्हमु Rural Municipality": [
+    "Solukhumbu": {
+      "Khumbu Pasang Lahmu Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "माप्य दुधकोशी Rural Municipality": [
+      "Maapya Dudhkoshi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1120,7 +1120,7 @@
         "6",
         "7"
       ],
-      "थुलुङ दुधकोशी Rural Municipality": [
+      "Thulung Dudhkoshi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1131,35 +1131,35 @@
         "8",
         "9"
       ],
-      "नेचासल्यान Rural Municipality": [
+      "Nechasalyan Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "महाकुलुङ Rural Municipality": [
+      "Mahakulung Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "लिखु पिके Rural Municipality": [
+      "Likhupike Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "सोताङ Rural Municipality": [
+      "Sotang Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "सोलु दुधकुण्ड Municipality": [
+      "Solududhakunda Municipality": [
         "1",
         "2",
         "3",
@@ -1173,8 +1173,8 @@
         "11"
       ]
     },
-    "खोटाङ": {
-      "ऐसेलुखर्क Rural Municipality": [
+    "Khotang": {
+      "Ainselukhark Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1183,7 +1183,7 @@
         "6",
         "7"
       ],
-      "केपिलासगढी Rural Municipality": [
+      "Kepilasagadhi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1192,7 +1192,7 @@
         "6",
         "7"
       ],
-      "खोटेहाङ Rural Municipality": [
+      "Khotehang Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1203,7 +1203,7 @@
         "8",
         "9"
       ],
-      "जन्तेढुंगा Rural Municipality": [
+      "Jantedhunga Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1211,7 +1211,7 @@
         "5",
         "6"
       ],
-      "दिप्रुङ चुइचुम्मा Rural Municipality": [
+      "Diprung Chuichumma Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1220,7 +1220,7 @@
         "6",
         "7"
       ],
-      "बराहपोखरी Rural Municipality": [
+      "Barahapokhari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1228,7 +1228,7 @@
         "5",
         "6"
       ],
-      "दिक्तेल रुपाकोट मझुवागढी Municipality": [
+      "Diktel Rupakot Majhuwagadhi Municipality": [
         "1",
         "2",
         "3",
@@ -1245,7 +1245,7 @@
         "14",
         "15"
       ],
-      "रावा बेसी Rural Municipality": [
+      "Rawa Besi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1253,14 +1253,14 @@
         "5",
         "6"
       ],
-      "साकेला Rural Municipality": [
+      "Sakela Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "हलेसी तुवाचुङ Municipality": [
+      "Halesi Tuwachung Municipality": [
         "1",
         "2",
         "3",
@@ -1274,8 +1274,8 @@
         "11"
       ]
     },
-    "ओखलढुङ्गा": {
-      "खिजिदेम्वा Rural Municipality": [
+    "Okhaldhunga": {
+      "Khijidemba Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1286,7 +1286,7 @@
         "8",
         "9"
       ],
-      "चम्पादेवी  Rural Municipality": [
+      "Champadevi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1298,7 +1298,7 @@
         "9",
         "10"
       ],
-      "चिशंखुगढी Rural Municipality": [
+      "Chisankhugadhi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1308,7 +1308,7 @@
         "7",
         "8"
       ],
-      "मानेभञ्ज्याङ Rural Municipality": [
+      "Manebhanjyang Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1319,7 +1319,7 @@
         "8",
         "9"
       ],
-      "मोलुङ Rural Municipality": [
+      "Molung Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1329,7 +1329,7 @@
         "7",
         "8"
       ],
-      "लिखु  Rural Municipality": [
+      "Likhu  Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1340,7 +1340,7 @@
         "8",
         "9"
       ],
-      "सिद्दिचरण Municipality": [
+      "Siddhicharan Municipality": [
         "1",
         "2",
         "3",
@@ -1354,7 +1354,7 @@
         "11",
         "12"
       ],
-      "सुनकोशी Rural Municipality": [
+      "Sunkoshi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1367,8 +1367,8 @@
         "10"
       ]
     },
-    "उदयपुर": {
-      "उदयपुरगढी Rural Municipality": [
+    "Udayapur": {
+      "Udayapurgadhi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1378,7 +1378,7 @@
         "7",
         "8"
       ],
-      "कटारी  Municipality": [
+      "Katari  Municipality": [
         "1",
         "2",
         "3",
@@ -1394,7 +1394,7 @@
         "13",
         "14"
       ],
-      "चौदण्डीगढी Municipality": [
+      "Chaudandigadhi Municipality": [
         "1",
         "2",
         "3",
@@ -1406,14 +1406,14 @@
         "9",
         "10"
       ],
-      "ताप्ली Rural Municipality": [
+      "Tapli Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "त्रियुगा Municipality": [
+      "Triyuga Municipality": [
         "1",
         "2",
         "3",
@@ -1431,7 +1431,7 @@
         "15",
         "16"
       ],
-      "रौतामाई Rural Municipality": [
+      "Rautamai Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1441,7 +1441,7 @@
         "7",
         "8"
       ],
-      "वेलका  Municipality": [
+      "Belaka  Municipality": [
         "1",
         "2",
         "3",
@@ -1452,7 +1452,7 @@
         "8",
         "9"
       ],
-      "लिम्चुङ्बुङ Rural Municipality": [
+      "Limchungbung Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1461,9 +1461,9 @@
       ]
     }
   },
-  "मधेश प्रदेश": {
-    "सप्तरी": {
-      "अग्नीसाइर कृष्णासवरन Rural Municipality": [
+  "Madesh Province": {
+    "Saptari": {
+      "Agnisair Krishna Savaran Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1471,7 +1471,7 @@
         "5",
         "6"
       ],
-      "कञ्चनरुप Municipality": [
+      "Kanchanrup Municipality": [
         "1",
         "2",
         "3",
@@ -1485,7 +1485,7 @@
         "11",
         "12"
       ],
-      "खडक Municipality": [
+      "Khadak Municipality": [
         "1",
         "2",
         "3",
@@ -1498,7 +1498,7 @@
         "10",
         "11"
       ],
-      "छिन्नमस्ता Rural Municipality": [
+      "Chhinnamasta Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1507,7 +1507,7 @@
         "6",
         "7"
       ],
-      "डाक्नेश्वरी Municipality": [
+      "Dakneshwork Municipality": [
         "1",
         "2",
         "3",
@@ -1519,14 +1519,14 @@
         "9",
         "10"
       ],
-      "तिरहुत Rural Municipality": [
+      "Tirahut Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "तिलाठी कोईलाडी Rural Municipality": [
+      "Tilathi Koiladi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1536,7 +1536,7 @@
         "7",
         "8"
       ],
-      "राजगढ Rural Municipality": [
+      "Rajgadh Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1544,7 +1544,7 @@
         "5",
         "6"
       ],
-      "बोदे बरसाइन Municipality": [
+      "Bode Barsain Municipality": [
         "1",
         "2",
         "3",
@@ -1556,7 +1556,7 @@
         "9",
         "10"
       ],
-      "महादेवा Rural Municipality": [
+      "Mahadeva Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1564,7 +1564,7 @@
         "5",
         "6"
       ],
-      "राजविराज Municipality": [
+      "Rajbiraj Municipality": [
         "1",
         "2",
         "3",
@@ -1582,7 +1582,7 @@
         "15",
         "16"
       ],
-      "रुपनी Rural Municipality": [
+      "Rupani Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1590,7 +1590,7 @@
         "5",
         "6"
       ],
-      "वलान-विहुल Rural Municipality": [
+      "Balan Bihul Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1598,7 +1598,7 @@
         "5",
         "6"
       ],
-      "विष्णुपुर Rural Municipality": [
+      "Bishnupur Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1607,7 +1607,7 @@
         "6",
         "7"
       ],
-      "शम्भुनाथ  Municipality": [
+      "Shambhunath  Municipality": [
         "1",
         "2",
         "3",
@@ -1621,7 +1621,7 @@
         "11",
         "12"
       ],
-      "सप्तकोशी Municipality": [
+      "Saptakoshi Municipality": [
         "1",
         "2",
         "3",
@@ -1634,7 +1634,7 @@
         "10",
         "11"
       ],
-      "सुरुङ्गा Municipality": [
+      "Surunga Municipality": [
         "1",
         "2",
         "3",
@@ -1647,7 +1647,7 @@
         "10",
         "11"
       ],
-      "हनुमाननगर कङ्कालिनी Municipality": [
+      "Hanumannagar Kankalini Municipality": [
         "1",
         "2",
         "3",
@@ -1664,7 +1664,7 @@
         "14"
       ]
     },
-    "सिराहा": {
+    "Siraha": {
       "अर्नमा Rural Municipality": [
         "1",
         "2",
@@ -1672,14 +1672,14 @@
         "4",
         "5"
       ],
-      "औरही Rural Municipality": [
+      "Aurahi Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "कल्याणपुर Municipality": [
+      "Kalyanpur Municipality": [
         "1",
         "2",
         "3",
@@ -1693,7 +1693,7 @@
         "11",
         "12"
       ],
-      "गोलबजार Municipality": [
+      "Golbazar Municipality": [
         "1",
         "2",
         "3",
@@ -1708,7 +1708,7 @@
         "12",
         "13"
       ],
-      "धनगढीमाई Municipality": [
+      "Dhangadhimai Municipality": [
         "1",
         "2",
         "3",
@@ -1724,35 +1724,35 @@
         "13",
         "14"
       ],
-      "नरहा Rural Municipality": [
+      "Naraha Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "नवराजपुर Rural Municipality": [
+      "Nawarajpur Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "बरियारपट्टी Rural Municipality": [
+      "Bariyarpatti Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "भगवानपुर Rural Municipality": [
+      "Bhagawanpur Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "मिर्चैया Municipality": [
+      "Mirchaiya Municipality": [
         "1",
         "2",
         "3",
@@ -1766,7 +1766,7 @@
         "11",
         "12"
       ],
-      "लक्ष्मीपुर पतारी Rural Municipality": [
+      "Laxmipur Patari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1774,7 +1774,7 @@
         "5",
         "6"
       ],
-      "लहान Municipality": [
+      "Lahan Municipality": [
         "1",
         "2",
         "3",
@@ -1800,21 +1800,21 @@
         "23",
         "24"
       ],
-      "विष्णुपुर Rural Municipality": [
+      "Bishnupur Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "सखुवानान्कारकट्टी Rural Municipality": [
+      "Sakhuwanankarkatti Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "सिराहा Municipality": [
+      "Siraha Municipality": [
         "1",
         "2",
         "3",
@@ -1838,7 +1838,7 @@
         "21",
         "22"
       ],
-      "सुखीपुर Municipality": [
+      "Sukhipur Municipality": [
         "1",
         "2",
         "3",
@@ -1850,7 +1850,7 @@
         "9",
         "10"
       ],
-      "कर्जन्हा Municipality": [
+      "Karjanha Municipality": [
         "1",
         "2",
         "3",
@@ -1864,8 +1864,8 @@
         "11"
       ]
     },
-    "धनुषा": {
-      "औरही  Rural Municipality": [
+    "Dhanusa": {
+      "Aaurahi  Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1873,7 +1873,7 @@
         "5",
         "6"
       ],
-      "कमला Municipality": [
+      "Kamala Municipality": [
         "1",
         "2",
         "3",
@@ -1884,7 +1884,7 @@
         "8",
         "9"
       ],
-      "क्षिरेश्वरनाथ Municipality": [
+      "Chhireshwornath Municipality": [
         "1",
         "2",
         "3",
@@ -1896,7 +1896,7 @@
         "9",
         "10"
       ],
-      "गणेशमान चारनाथ Municipality": [
+      "Ganeshman Charnath Municipality": [
         "1",
         "2",
         "3",
@@ -1909,7 +1909,7 @@
         "10",
         "11"
       ],
-      "जनकनन्दिनी Rural Municipality": [
+      "Janaknandani Rural Municipality": [
         "1",
         "2",
         "3",
@@ -1917,7 +1917,7 @@
         "5",
         "6"
       ],
-      "जनकपुरधाम उपमहाMunicipality": [
+      "Janakpurdham  Sub-Metropolitan City": [
         "1",
         "2",
         "3",
@@ -1944,7 +1944,7 @@
         "24",
         "25"
       ],
-      "धनुषाधाम Municipality": [
+      "Dhanusadham Municipality": [
         "1",
         "2",
         "3",
@@ -1955,14 +1955,14 @@
         "8",
         "9"
       ],
-      "धनौजी Rural Municipality": [
+      "Dhanauji Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "नगराइन Municipality": [
+      "Nagarain Municipality": [
         "1",
         "2",
         "3",
@@ -1973,14 +1973,14 @@
         "8",
         "9"
       ],
-      "बटेश्वर Rural Municipality": [
+      "Bateshwor Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "मिथिला Municipality": [
+      "Mithila Municipality": [
         "1",
         "2",
         "3",
@@ -1993,7 +1993,7 @@
         "10",
         "11"
       ],
-      "मिथिला बिहारी Municipality": [
+      "Mithila Bihari Municipality": [
         "1",
         "2",
         "3",
@@ -2005,7 +2005,7 @@
         "9",
         "10"
       ],
-      "मुखियापट्टी मुसहरमिया Rural Municipality": [
+      "Mukhiyapatti Musariya Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2013,7 +2013,7 @@
         "5",
         "6"
       ],
-      "लक्ष्मीनिया Rural Municipality": [
+      "Lakshminiya Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2022,7 +2022,7 @@
         "6",
         "7"
       ],
-      "विदेह Municipality": [
+      "Bideha Municipality": [
         "1",
         "2",
         "3",
@@ -2033,7 +2033,7 @@
         "8",
         "9"
       ],
-      "शहीदनगर Municipality": [
+      "Sahidnagar Municipality": [
         "1",
         "2",
         "3",
@@ -2044,7 +2044,7 @@
         "8",
         "9"
       ],
-      "सबैला Municipality": [
+      "Sabaila Municipality": [
         "1",
         "2",
         "3",
@@ -2059,7 +2059,7 @@
         "12",
         "13"
       ],
-      "हंसपुर Municipality": [
+      "Hansapur Municipality": [
         "1",
         "2",
         "3",
@@ -2071,8 +2071,8 @@
         "9"
       ]
     },
-    "महोत्तरी": {
-      "गौशाला Municipality": [
+    "Mahottari": {
+      "Gaushala Municipality": [
         "1",
         "2",
         "3",
@@ -2086,7 +2086,7 @@
         "11",
         "12"
       ],
-      "जलेश्वर Municipality": [
+      "Jaleshwar Municipality": [
         "1",
         "2",
         "3",
@@ -2100,7 +2100,7 @@
         "11",
         "12"
       ],
-      "पिपरा Rural Municipality": [
+      "Pipra Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2109,7 +2109,7 @@
         "6",
         "7"
       ],
-      "महोत्तरी Rural Municipality": [
+      "Mahottari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2117,7 +2117,7 @@
         "5",
         "6"
       ],
-      "साम्सी Rural Municipality": [
+      "Samsi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2126,7 +2126,7 @@
         "6",
         "7"
       ],
-      "सोनमा Rural Municipality": [
+      "Sonama Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2136,7 +2136,7 @@
         "7",
         "8"
       ],
-      "एकडारा Rural Municipality": [
+      "Ekdanra Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2144,7 +2144,7 @@
         "5",
         "6"
       ],
-      "औरही Municipality": [
+      "Aurahi Municipality": [
         "1",
         "2",
         "3",
@@ -2155,7 +2155,7 @@
         "8",
         "9"
       ],
-      "बर्दिबास Municipality": [
+      "Bardibas Municipality": [
         "1",
         "2",
         "3",
@@ -2171,7 +2171,7 @@
         "13",
         "14"
       ],
-      "बलवा Municipality": [
+      "Balwa Municipality": [
         "1",
         "2",
         "3",
@@ -2184,7 +2184,7 @@
         "10",
         "11"
       ],
-      "भँगाहा Municipality": [
+      "Bhangaha Municipality": [
         "1",
         "2",
         "3",
@@ -2195,7 +2195,7 @@
         "8",
         "9"
       ],
-      "मटिहानी Municipality": [
+      "Matihani Municipality": [
         "1",
         "2",
         "3",
@@ -2206,7 +2206,7 @@
         "8",
         "9"
       ],
-      "मनरा शिसवा Municipality": [
+      "Manra Siswa Municipality": [
         "1",
         "2",
         "3",
@@ -2218,7 +2218,7 @@
         "9",
         "10"
       ],
-      "रामगोपालपुर Municipality": [
+      "Ramgopalpur Municipality": [
         "1",
         "2",
         "3",
@@ -2229,7 +2229,7 @@
         "8",
         "9"
       ],
-      "लोहरपट्टी Municipality": [
+      "Loharpatti Municipality": [
         "1",
         "2",
         "3",
@@ -2241,8 +2241,8 @@
         "9"
       ]
     },
-    "सर्लाही": {
-      "ईश्वरपुर Municipality": [
+    "Sarlahi": {
+      "Ishworpur Municipality": [
         "1",
         "2",
         "3",
@@ -2259,7 +2259,7 @@
         "14",
         "15"
       ],
-      "चन्द्रनगर Rural Municipality": [
+      "Chandranagar Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2268,7 +2268,7 @@
         "6",
         "7"
       ],
-      "बरहथवा Municipality": [
+      "Barahathawa Municipality": [
         "1",
         "2",
         "3",
@@ -2288,7 +2288,7 @@
         "17",
         "18"
       ],
-      "बागमती Municipality": [
+      "Bagmati Municipality": [
         "1",
         "2",
         "3",
@@ -2302,7 +2302,7 @@
         "11",
         "12"
       ],
-      "मलंगवा Municipality": [
+      "Malangawa Municipality": [
         "1",
         "2",
         "3",
@@ -2316,7 +2316,7 @@
         "11",
         "12"
       ],
-      "लालबन्दी Municipality": [
+      "Lalbandi Municipality": [
         "1",
         "2",
         "3",
@@ -2335,7 +2335,7 @@
         "16",
         "17"
       ],
-      "हरिवन Municipality": [
+      "Hariwan Municipality": [
         "1",
         "2",
         "3",
@@ -2348,7 +2348,7 @@
         "10",
         "11"
       ],
-      "कविलासी Municipality": [
+      "Kabilasi Municipality": [
         "1",
         "2",
         "3",
@@ -2360,7 +2360,7 @@
         "9",
         "10"
       ],
-      "कौडेना Rural Municipality": [
+      "Kaudena Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2369,7 +2369,7 @@
         "6",
         "7"
       ],
-      "गोडैटा  Municipality": [
+      "Godaita  Municipality": [
         "1",
         "2",
         "3",
@@ -2383,7 +2383,7 @@
         "11",
         "12"
       ],
-      "चक्रघट्टा  Rural Municipality": [
+      "Chakraghatta  Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2394,7 +2394,7 @@
         "8",
         "9"
       ],
-      "धनकौल Rural Municipality": [
+      "Dhankaul Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2403,7 +2403,7 @@
         "6",
         "7"
       ],
-      "पर्सा Rural Municipality": [
+      "Parsa Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2411,7 +2411,7 @@
         "5",
         "6"
       ],
-      "बलरा Municipality": [
+      "Balara Municipality": [
         "1",
         "2",
         "3",
@@ -2424,7 +2424,7 @@
         "10",
         "11"
       ],
-      "बसबरिया Rural Municipality": [
+      "Basbariya Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2432,7 +2432,7 @@
         "5",
         "6"
       ],
-      "ब्रह्मपुरी  Rural Municipality": [
+      "Bramhapuri  Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2441,7 +2441,7 @@
         "6",
         "7"
       ],
-      "रामनगर Rural Municipality": [
+      "Ramnagar Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2450,7 +2450,7 @@
         "6",
         "7"
       ],
-      "विष्णु Rural Municipality": [
+      "Bishnu Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2460,7 +2460,7 @@
         "7",
         "8"
       ],
-      "हरिपुर Municipality": [
+      "Haripur Municipality": [
         "1",
         "2",
         "3",
@@ -2471,7 +2471,7 @@
         "8",
         "9"
       ],
-      "हरिपुर्वा Municipality": [
+      "Haripurwa Municipality": [
         "1",
         "2",
         "3",
@@ -2483,8 +2483,8 @@
         "9"
       ]
     },
-    "रौतहट": {
-      "गरुडा Municipality": [
+    "Rautahat": {
+      "Garuda Municipality": [
         "1",
         "2",
         "3",
@@ -2495,7 +2495,7 @@
         "8",
         "9"
       ],
-      "चन्द्रपुर Municipality": [
+      "Chandrapur Municipality": [
         "1",
         "2",
         "3",
@@ -2507,7 +2507,7 @@
         "9",
         "10"
       ],
-      "ईशनाथ Municipality": [
+      "Ishanath Municipality": [
         "1",
         "2",
         "3",
@@ -2518,7 +2518,7 @@
         "8",
         "9"
       ],
-      "कटहरिया Municipality": [
+      "Katahariya Municipality": [
         "1",
         "2",
         "3",
@@ -2529,7 +2529,7 @@
         "8",
         "9"
       ],
-      "गढीमाई Municipality": [
+      "Gadhimai Municipality": [
         "1",
         "2",
         "3",
@@ -2540,7 +2540,7 @@
         "8",
         "9"
       ],
-      "गुजरा Municipality": [
+      "Gajura Municipality": [
         "1",
         "2",
         "3",
@@ -2551,7 +2551,7 @@
         "8",
         "9"
       ],
-      "गौर Municipality": [
+      "Gaur Municipality": [
         "1",
         "2",
         "3",
@@ -2562,14 +2562,14 @@
         "8",
         "9"
       ],
-      "दुर्गा भगवती Rural Municipality": [
+      "Durga Bhagwati Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "देवाही गोनाही   Municipality": [
+      "Dewahhi Gonahi   Municipality": [
         "1",
         "2",
         "3",
@@ -2580,7 +2580,7 @@
         "8",
         "9"
       ],
-      "परोहा Municipality": [
+      "Paroha Municipality": [
         "1",
         "2",
         "3",
@@ -2591,7 +2591,7 @@
         "8",
         "9"
       ],
-      "फतुवा बिजयपुर Municipality": [
+      "Phatuwa Bijayapur Municipality": [
         "1",
         "2",
         "3",
@@ -2604,7 +2604,7 @@
         "10",
         "11"
       ],
-      "बौधीमाई Municipality": [
+      "Baudhimai Municipality": [
         "1",
         "2",
         "3",
@@ -2615,7 +2615,7 @@
         "8",
         "9"
       ],
-      "माधव नारायण Municipality": [
+      "Madhav Narayan Municipality": [
         "1",
         "2",
         "3",
@@ -2626,7 +2626,7 @@
         "8",
         "9"
       ],
-      "मौलापुर Municipality": [
+      "Maulapur Municipality": [
         "1",
         "2",
         "3",
@@ -2637,14 +2637,14 @@
         "8",
         "9"
       ],
-      "यमुनामाई  Rural Municipality": [
+      "Yemunamai Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "राजदेवी Municipality": [
+      "Rajdevi Municipality": [
         "1",
         "2",
         "3",
@@ -2655,7 +2655,7 @@
         "8",
         "9"
       ],
-      "राजपुर Municipality": [
+      "Rajpur Municipality": [
         "1",
         "2",
         "3",
@@ -2666,7 +2666,7 @@
         "8",
         "9"
       ],
-      "वृन्दावन Municipality": [
+      "Brindaban Municipality": [
         "1",
         "2",
         "3",
@@ -2678,8 +2678,8 @@
         "9"
       ]
     },
-    "बारा": {
-      "आदर्श कोटवाल Rural Municipality": [
+    "Bara": {
+      "Adarshkotwal Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2689,7 +2689,7 @@
         "7",
         "8"
       ],
-      "करैयामाई Rural Municipality": [
+      "Karaiyamai Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2699,7 +2699,7 @@
         "7",
         "8"
       ],
-      "कलैया उपमहाMunicipality": [
+      "Kalaiya Sub-Metropolitan Clity": [
         "1",
         "2",
         "3",
@@ -2728,7 +2728,7 @@
         "26",
         "27"
       ],
-      "कोल्हवी Municipality": [
+      "Kolhabi Municipality": [
         "1",
         "2",
         "3",
@@ -2741,7 +2741,7 @@
         "10",
         "11"
       ],
-      "जीतपुरसिमरा उपमहाMunicipality": [
+      "Jitpur Simara Sub-Metropolitan City": [
         "1",
         "2",
         "3",
@@ -2767,7 +2767,7 @@
         "23",
         "24"
       ],
-      "देवताल Rural Municipality": [
+      "Devtal Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2776,7 +2776,7 @@
         "6",
         "7"
       ],
-      "निजगढ Municipality": [
+      "Nijgadh Municipality": [
         "1",
         "2",
         "3",
@@ -2791,7 +2791,7 @@
         "12",
         "13"
       ],
-      "बारागढी Rural Municipality": [
+      "Baragadhi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2799,7 +2799,7 @@
         "5",
         "6"
       ],
-      "महागढीमाई Municipality": [
+      "Mahagadhimai Municipality": [
         "1",
         "2",
         "3",
@@ -2812,7 +2812,7 @@
         "10",
         "11"
       ],
-      "सिम्रौनगढ Municipality": [
+      "Simraungadh Municipality": [
         "1",
         "2",
         "3",
@@ -2825,7 +2825,7 @@
         "10",
         "11"
       ],
-      "सुवर्ण Rural Municipality": [
+      "Suwarna Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2835,7 +2835,7 @@
         "7",
         "8"
       ],
-      "पचरौता Municipality": [
+      "Pacharauta Municipality": [
         "1",
         "2",
         "3",
@@ -2846,14 +2846,14 @@
         "8",
         "9"
       ],
-      "परवानीपुर Rural Municipality": [
+      "Parwanipur Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "प्रसौनी गाउँपालिक": [
+      "Prasauni Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2862,7 +2862,7 @@
         "6",
         "7"
       ],
-      "फेटा Rural Municipality": [
+      "Pheta Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2871,7 +2871,7 @@
         "6",
         "7"
       ],
-      "विश्रामपुर Rural Municipality": [
+      "Bishrampur Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2879,15 +2879,15 @@
         "5"
       ]
     },
-    "पर्सा": {
-      "छिपहरमाई Rural Municipality": [
+    "Parsa": {
+      "Chhipaharmai Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "जगरनाथपुर Rural Municipality": [
+      "Jagarnathpur Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2895,28 +2895,28 @@
         "5",
         "6"
       ],
-      "धोबीनी Rural Municipality": [
+      "Dhobini Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "पकाहा मैनपुर Rural Municipality": [
+      "Pakahamainpur Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "बिन्दबासिनी Rural Municipality": [
+      "Bindabasini Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "सखुवा प्रसौनी Rural Municipality": [
+      "Sakhuwa Prasauni Rural Municipality": [
         "1",
         "2",
         "3",
@@ -2924,35 +2924,35 @@
         "5",
         "6"
       ],
-      "कालिकामाई Rural Municipality": [
+      "Kalikamai Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "जिराभवानी Rural Municipality": [
+      "Jirabhawani Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "ठोरी Rural Municipality": [
+      "Thori Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "पटेर्वा सुगौली Rural Municipality": [
+      "Paterwa Sugauli Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "पर्सागढी Municipality": [
+      "Parsagadhi Municipality": [
         "1",
         "2",
         "3",
@@ -2963,7 +2963,7 @@
         "8",
         "9"
       ],
-      "पोखरिया Municipality": [
+      "Pokhariya Municipality": [
         "1",
         "2",
         "3",
@@ -2975,7 +2975,7 @@
         "9",
         "10"
       ],
-      "बहुदरमाई Municipality": [
+      "Bahudaramai Municipality": [
         "1",
         "2",
         "3",
@@ -2986,7 +2986,7 @@
         "8",
         "9"
       ],
-      "बिरगंज महाMunicipality": [
+      "Birgunj Metropolitan City": [
         "1",
         "2",
         "3",
@@ -3022,9 +3022,9 @@
       ]
     }
   },
-  "बागमती प्रदेश ": {
-    "दोलखा": {
-      "कालिन्चोक  Rural Municipality": [
+  "Bagmati Province ": {
+    "Dolakha": {
+      "Kalinchok  Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3035,7 +3035,7 @@
         "8",
         "9"
       ],
-      "गौरिशंकर  Rural Municipality": [
+      "Gaurishankar  Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3046,7 +3046,7 @@
         "8",
         "9"
       ],
-      "जिरी  Municipality": [
+      "Jiri  Municipality": [
         "1",
         "2",
         "3",
@@ -3057,7 +3057,7 @@
         "8",
         "9"
       ],
-      "तामाकोशी  Rural Municipality": [
+      "Tamakoshi  Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3066,7 +3066,7 @@
         "6",
         "7"
       ],
-      "भिमेश्वर  Municipality": [
+      "Bhimeshwor  Municipality": [
         "1",
         "2",
         "3",
@@ -3077,7 +3077,7 @@
         "8",
         "9"
       ],
-      "मेलुङ  Rural Municipality": [
+      "Melung  Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3086,7 +3086,7 @@
         "6",
         "7"
       ],
-      "विगु Rural Municipality": [
+      "Bigu Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3096,7 +3096,7 @@
         "7",
         "8"
       ],
-      "वैतेश्वर  Rural Municipality": [
+      "Baiteshwor  Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3106,7 +3106,7 @@
         "7",
         "8"
       ],
-      "शैलुङ  Rural Municipality": [
+      "Sailung Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3117,8 +3117,8 @@
         "8"
       ]
     },
-    "रामेछाप": {
-      "उमाकुण्ड Rural Municipality": [
+    "Ramechhap": {
+      "Umakunda Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3127,7 +3127,7 @@
         "6",
         "7"
       ],
-      "खाँडादेवी Rural Municipality": [
+      "Khadadevi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3138,7 +3138,7 @@
         "8",
         "9"
       ],
-      "गोकुलगङ्गा Rural Municipality": [
+      "Gokulganga Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3146,7 +3146,7 @@
         "5",
         "6"
       ],
-      "दोरम्बा शैलुङ्ग Rural Municipality": [
+      "Doramba Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3155,7 +3155,7 @@
         "6",
         "7"
       ],
-      "मन्थली Municipality": [
+      "Manthali Municipality": [
         "1",
         "2",
         "3",
@@ -3171,7 +3171,7 @@
         "13",
         "14"
       ],
-      "रामेछाप Municipality": [
+      "Ramechhap Municipality": [
         "1",
         "2",
         "3",
@@ -3182,7 +3182,7 @@
         "8",
         "9"
       ],
-      "लिखु तामाकोशी Rural Municipality": [
+      "Likhu Tamakoshi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3191,7 +3191,7 @@
         "6",
         "7"
       ],
-      "सुनापती Rural Municipality": [
+      "Sunapati Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3199,8 +3199,8 @@
         "5"
       ]
     },
-    "सिन्धुली": {
-      "कमलामाई Municipality": [
+    "Sindhuli": {
+      "Kamalamai Municipality": [
         "1",
         "2",
         "3",
@@ -3216,7 +3216,7 @@
         "13",
         "14"
       ],
-      "गोलन्जोर Rural Municipality": [
+      "Golanjor Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3225,14 +3225,14 @@
         "6",
         "7"
       ],
-      "घ्याङलेख Rural Municipality": [
+      "Ghanglekh Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "तिनपाटन Rural Municipality": [
+      "Tinpatan Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3245,7 +3245,7 @@
         "10",
         "11"
       ],
-      "दुधौली Municipality": [
+      "Dudhouli Municipality": [
         "1",
         "2",
         "3",
@@ -3261,7 +3261,7 @@
         "13",
         "14"
       ],
-      "फिक्कल Rural Municipality": [
+      "Phikkal Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3269,7 +3269,7 @@
         "5",
         "6"
       ],
-      "मरिण Rural Municipality": [
+      "Marin Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3278,7 +3278,7 @@
         "6",
         "7"
       ],
-      "सुनकोशी Rural Municipality": [
+      "Sunkoshi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3287,7 +3287,7 @@
         "6",
         "7"
       ],
-      "हरिहरपुरगढी Rural Municipality": [
+      "Hariharpurgadhi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3298,22 +3298,22 @@
         "8"
       ]
     },
-    "रसुवा": {
-      "उत्तरगया Rural Municipality": [
+    "Rasuwa": {
+      "Uttargaya Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "कालिका Rural Municipality": [
+      "Kalika Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "गोसाईकुण्ड Rural Municipality": [
+      "Gosaikunda Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3321,7 +3321,7 @@
         "5",
         "6"
       ],
-      "नौकुण्ड Rural Municipality": [
+      "Naukunda Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3329,7 +3329,7 @@
         "5",
         "6"
       ],
-      "आमाछोदिङमो Rural Municipality": [
+      "Amachodingmo Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3337,15 +3337,15 @@
         "5"
       ]
     },
-    "धादीङ्ग": {
-      "खनियाबास Rural Municipality": [
+    "Dhading": {
+      "Khaniyabash Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "गङ्गाजमुना Rural Municipality": [
+      "Gangajamuna Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3354,7 +3354,7 @@
         "6",
         "7"
       ],
-      "गजुरी Rural Municipality": [
+      "Gajuri Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3364,7 +3364,7 @@
         "7",
         "8"
       ],
-      "गल्छी Rural Municipality": [
+      "Galchi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3374,7 +3374,7 @@
         "7",
         "8"
       ],
-      "ज्वालामूखी Rural Municipality": [
+      "Jwalamukhi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3383,7 +3383,7 @@
         "6",
         "7"
       ],
-      "त्रिपुरासुन्दरी Rural Municipality": [
+      "Tripura Sundari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3392,7 +3392,7 @@
         "6",
         "7"
       ],
-      "थाक्रे Rural Municipality": [
+      "Thakre Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3405,7 +3405,7 @@
         "10",
         "11"
       ],
-      "धुनीबेंशी Municipality": [
+      "Dhunibesi Municipality": [
         "1",
         "2",
         "3",
@@ -3416,7 +3416,7 @@
         "8",
         "9"
       ],
-      "निलकण्ठ Municipality": [
+      "Nilkantha Municipality": [
         "1",
         "2",
         "3",
@@ -3432,14 +3432,14 @@
         "13",
         "14"
       ],
-      "नेत्रावती डबजोङ Rural Municipality": [
+      "Netrawati Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "बेनीघाट रोराङ्ग Rural Municipality": [
+      "Benighat Rorang Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3451,7 +3451,7 @@
         "9",
         "10"
       ],
-      "रुवी भ्याली Rural Municipality": [
+      "Rubi Valley Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3459,7 +3459,7 @@
         "5",
         "6"
       ],
-      "सिद्धलेक Rural Municipality": [
+      "Siddhalek Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3469,8 +3469,8 @@
         "7"
       ]
     },
-    "नुवाकोट": {
-      "ककनी Rural Municipality": [
+    "Nuwakot": {
+      "Kakani Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3480,14 +3480,14 @@
         "7",
         "8"
       ],
-      "किस्पाङ Rural Municipality": [
+      "Kispang Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "तादी Rural Municipality": [
+      "Tadi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3495,7 +3495,7 @@
         "5",
         "6"
       ],
-      "तारकेश्वर Rural Municipality": [
+      "Tarkeshwar Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3503,7 +3503,7 @@
         "5",
         "6"
       ],
-      "दुप्चेश्वर Rural Municipality": [
+      "Dupcheshwar Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3512,14 +3512,14 @@
         "6",
         "7"
       ],
-      "पञ्चकन्या Rural Municipality": [
+      "Panchakanya Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "बेलकोटगढी Municipality": [
+      "Belkotgadhi Municipality": [
         "1",
         "2",
         "3",
@@ -3534,7 +3534,7 @@
         "12",
         "13"
       ],
-      "म्यागङ Rural Municipality": [
+      "Myagang Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3542,7 +3542,7 @@
         "5",
         "6"
       ],
-      "लिखु Rural Municipality": [
+      "Likhu Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3550,7 +3550,7 @@
         "5",
         "6"
       ],
-      "विदुर Municipality": [
+      "Bidur Municipality": [
         "1",
         "2",
         "3",
@@ -3565,7 +3565,7 @@
         "12",
         "13"
       ],
-      "शिवपुरी Rural Municipality": [
+      "Shivapuri Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3575,7 +3575,7 @@
         "7",
         "8"
       ],
-      "सुर्यगढी Rural Municipality": [
+      "Suryagadhi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3583,8 +3583,8 @@
         "5"
       ]
     },
-    "काठमाण्डौ": {
-      "कागेश्वरी मनोहरा Municipality": [
+    "Kathmandu": {
+      "Kageshwori Municipality": [
         "1",
         "2",
         "3",
@@ -3595,7 +3595,7 @@
         "8",
         "9"
       ],
-      "काठमाण्डौ महाMunicipality": [
+      "Kathmandu Metropolitan City": [
         "1",
         "2",
         "3",
@@ -3629,7 +3629,7 @@
         "31",
         "32"
       ],
-      "किर्तिपुर Municipality": [
+      "Kirtipur Municipality": [
         "1",
         "2",
         "3",
@@ -3641,7 +3641,7 @@
         "9",
         "10"
       ],
-      "गोकर्णेश्वर Municipality": [
+      "Gokarneshwor Municipality": [
         "1",
         "2",
         "3",
@@ -3652,7 +3652,7 @@
         "8",
         "9"
       ],
-      "चन्द्रागिरी Municipality": [
+      "Chandragiri Municipality": [
         "1",
         "2",
         "3",
@@ -3669,7 +3669,7 @@
         "14",
         "15"
       ],
-      "टोखा Municipality": [
+      "Tokha Municipality": [
         "1",
         "2",
         "3",
@@ -3682,7 +3682,7 @@
         "10",
         "11"
       ],
-      "तारकेश्वर Municipality": [
+      "Tarkeshwor Municipality": [
         "1",
         "2",
         "3",
@@ -3695,7 +3695,7 @@
         "10",
         "11"
       ],
-      "दक्षिणकाली Municipality": [
+      "Dakshinkali Municipality": [
         "1",
         "2",
         "3",
@@ -3706,7 +3706,7 @@
         "8",
         "9"
       ],
-      "नागार्जुन Municipality": [
+      "Nagarjun Municipality": [
         "1",
         "2",
         "3",
@@ -3718,7 +3718,7 @@
         "9",
         "10"
       ],
-      "बुढानिलकण्ठ Municipality": [
+      "Budhanilakantha Municipality": [
         "1",
         "2",
         "3",
@@ -3733,7 +3733,7 @@
         "12",
         "13"
       ],
-      "शङ्खरापुर Municipality": [
+      "Shankharapur Municipality": [
         "1",
         "2",
         "3",
@@ -3745,8 +3745,8 @@
         "9"
       ]
     },
-    "भक्तपुर": {
-      "चाँगुनारायण Municipality": [
+    "Bhaktapur": {
+      "Changunarayan Municipality": [
         "1",
         "2",
         "3",
@@ -3757,7 +3757,7 @@
         "8",
         "9"
       ],
-      "भक्तपुर Municipality": [
+      "Bhaktapur Municipality": [
         "1",
         "2",
         "3",
@@ -3769,7 +3769,7 @@
         "9",
         "10"
       ],
-      "मध्यपुर थिमी Municipality": [
+      "Madhyapur Thimi Municipality": [
         "1",
         "2",
         "3",
@@ -3780,7 +3780,7 @@
         "8",
         "9"
       ],
-      "सूर्यविनायक Municipality": [
+      "Suryabinayak Municipality": [
         "1",
         "2",
         "3",
@@ -3793,15 +3793,15 @@
         "10"
       ]
     },
-    "ललीतपुर": {
-      "कोन्ज्योसोम Rural Municipality": [
+    "Lalitpur": {
+      "Konjyosom Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "गोदावरी Municipality": [
+      "Godawari Municipality": [
         "1",
         "2",
         "3",
@@ -3817,7 +3817,7 @@
         "13",
         "14"
       ],
-      "बाग्मती Rural Municipality": [
+      "Bagmati Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3826,7 +3826,7 @@
         "6",
         "7"
       ],
-      "महाङ्काल Rural Municipality": [
+      "Mahankal Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3834,7 +3834,7 @@
         "5",
         "6"
       ],
-      "महालक्ष्मी Municipality": [
+      "Mahalaxmi Municipality": [
         "1",
         "2",
         "3",
@@ -3846,7 +3846,7 @@
         "9",
         "10"
       ],
-      "ललितपुर महाMunicipality": [
+      "Lalitpur Metropolitan City": [
         "1",
         "2",
         "3",
@@ -3878,8 +3878,8 @@
         "29"
       ]
     },
-    "काभ्रेपलान्चोक": {
-      "खानीखोला Rural Municipality": [
+    "Kavrepalanchok": {
+      "Khanikhola Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3888,7 +3888,7 @@
         "6",
         "7"
       ],
-      "चौंरीदेउराली Rural Municipality": [
+      "Chaurideurali Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3899,7 +3899,7 @@
         "8",
         "9"
       ],
-      "तेमाल Rural Municipality": [
+      "Temal Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3910,7 +3910,7 @@
         "8",
         "9"
       ],
-      "धुलिखेल Municipality": [
+      "Dhulikhel Municipality": [
         "1",
         "2",
         "3",
@@ -3924,7 +3924,7 @@
         "11",
         "12"
       ],
-      "नमोबुद्ध Municipality": [
+      "Namobuddha Municipality": [
         "1",
         "2",
         "3",
@@ -3937,7 +3937,7 @@
         "10",
         "11"
       ],
-      "पनौती Municipality": [
+      "Panauti Municipality": [
         "1",
         "2",
         "3",
@@ -3951,7 +3951,7 @@
         "11",
         "12"
       ],
-      "पाँचखाल Municipality": [
+      "Panchkhal Municipality": [
         "1",
         "2",
         "3",
@@ -3966,7 +3966,7 @@
         "12",
         "13"
       ],
-      "बनेपा Municipality": [
+      "Benapa Municipality": [
         "1",
         "2",
         "3",
@@ -3982,7 +3982,7 @@
         "13",
         "14"
       ],
-      "बेथानचोक Rural Municipality": [
+      "Bethanchowk Rural Municipality": [
         "1",
         "2",
         "3",
@@ -3990,7 +3990,7 @@
         "5",
         "6"
       ],
-      "भुम्लु Rural Municipality": [
+      "Bhumlu Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4002,7 +4002,7 @@
         "9",
         "10"
       ],
-      "मण्डनदेउपुर Municipality": [
+      "Mandandeupur Municipality": [
         "1",
         "2",
         "3",
@@ -4016,7 +4016,7 @@
         "11",
         "12"
       ],
-      "महाभारत Rural Municipality": [
+      "Mahabharat Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4026,7 +4026,7 @@
         "7",
         "8"
       ],
-      "रोशी Rural Municipality": [
+      "Roshi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4041,8 +4041,8 @@
         "12"
       ]
     },
-    "सिन्धुपाल्चोक": {
-      "चौतारा साँगाचोकगढी Municipality": [
+    "Sindhupalchok": {
+      "Chautara-Sanachok-Gadhi Municipality": [
         "1",
         "2",
         "3",
@@ -4058,7 +4058,7 @@
         "13",
         "14"
       ],
-      "जुगल Rural Municipality": [
+      "Jugal Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4067,7 +4067,7 @@
         "6",
         "7"
       ],
-      "त्रिपुरासुन्दरी Rural Municipality": [
+      "Tripurasundari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4075,7 +4075,7 @@
         "5",
         "6"
       ],
-      "पाँचपोखरी थाङपाल  Rural Municipality": [
+      "Pachpokhari-Thangpal Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4085,7 +4085,7 @@
         "7",
         "8"
       ],
-      "बलेफी Rural Municipality": [
+      "Balefi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4095,14 +4095,14 @@
         "7",
         "8"
       ],
-      "भोटेकोशी Rural Municipality": [
+      "Bhotekoshi Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "मेलम्ची Municipality": [
+      "Melamchi Municipality": [
         "1",
         "2",
         "3",
@@ -4117,7 +4117,7 @@
         "12",
         "13"
       ],
-      "ईन्द्रावती Rural Municipality": [
+      "Indrawati Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4131,7 +4131,7 @@
         "11",
         "12"
       ],
-      "लिसंखु पाखर Rural Municipality": [
+      "Lisangkhu-Pakhar Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4140,7 +4140,7 @@
         "6",
         "7"
       ],
-      "वाह्रविसे Municipality": [
+      "Bhrhabise Municipality": [
         "1",
         "2",
         "3",
@@ -4151,7 +4151,7 @@
         "8",
         "9"
       ],
-      "सुनकोशी Rural Municipality": [
+      "Sunkoshi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4160,7 +4160,7 @@
         "6",
         "7"
       ],
-      "हेलम्बु  Rural Municipality": [
+      "Helambu  Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4170,15 +4170,15 @@
         "7"
       ]
     },
-    "मकवानपुर": {
-      "ईन्द्र सरोवर Rural Municipality": [
+    "Makwanpur": {
+      "Indra-sarowar Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "कैलाश Rural Municipality": [
+      "Kailash Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4190,7 +4190,7 @@
         "9",
         "10"
       ],
-      "थाहा Municipality": [
+      "Thaha Municipality": [
         "1",
         "2",
         "3",
@@ -4204,7 +4204,7 @@
         "11",
         "12"
       ],
-      "बकैया Rural Municipality": [
+      "Bakaiya Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4218,7 +4218,7 @@
         "11",
         "12"
       ],
-      "बाग्मती Rural Municipality": [
+      "Bagmati Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4229,7 +4229,7 @@
         "8",
         "9"
       ],
-      "भीमफेदी Rural Municipality": [
+      "Bhimphedi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4240,7 +4240,7 @@
         "8",
         "9"
       ],
-      "मकवानपुरगढी Rural Municipality": [
+      "Makawanpurgadhi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4250,7 +4250,7 @@
         "7",
         "8"
       ],
-      "मनहरी Rural Municipality": [
+      "Manahari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4261,7 +4261,7 @@
         "8",
         "9"
       ],
-      "राक्सिराङ्ग Rural Municipality": [
+      "Raksirang Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4272,7 +4272,7 @@
         "8",
         "9"
       ],
-      "हेटौडा उपमहाMunicipality": [
+      "Hetauda Sub-Metropolitian City": [
         "1",
         "2",
         "3",
@@ -4294,8 +4294,8 @@
         "19"
       ]
     },
-    "चितवन": {
-      "इच्छाकामना Rural Municipality": [
+    "Chitwan": {
+      "Ichchhyakamana Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4304,7 +4304,7 @@
         "6",
         "7"
       ],
-      "कालिका Municipality": [
+      "Kalika Municipality": [
         "1",
         "2",
         "3",
@@ -4317,7 +4317,7 @@
         "10",
         "11"
       ],
-      "खैरहनी Municipality": [
+      "Khairahani Municipality": [
         "1",
         "2",
         "3",
@@ -4332,7 +4332,7 @@
         "12",
         "13"
       ],
-      "भरतपुर महाMunicipality": [
+      "Bharatpur Metropolitan City": [
         "1",
         "2",
         "3",
@@ -4363,7 +4363,7 @@
         "28",
         "29"
       ],
-      "माडी Municipality": [
+      "Madi Municipality": [
         "1",
         "2",
         "3",
@@ -4374,7 +4374,7 @@
         "8",
         "9"
       ],
-      "रत्ननगर Municipality": [
+      "Ratnanagar Municipality": [
         "1",
         "2",
         "3",
@@ -4392,7 +4392,7 @@
         "15",
         "16"
       ],
-      "राप्ती Municipality": [
+      "Rapti Municipality": [
         "1",
         "2",
         "3",
@@ -4409,16 +4409,16 @@
       ]
     }
   },
-  "गण्डकी प्रदेश": {
-    "गोरखा": {
-      "अजिरकोट Rural Municipality": [
+  "Gandaki Province": {
+    "Gorkha": {
+      "Ajirkot Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "आरूघाट Rural Municipality": [
+      "Aarughat Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4430,7 +4430,7 @@
         "9",
         "10"
       ],
-      "गण्डकी Rural Municipality": [
+      "Gandaki Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4440,8 +4440,8 @@
         "7",
         "8"
       ],
-      "गोरखा Municipality": [
-        "1",
+      "Gorkha Municipality": [
+       "1",
         "2",
         "3",
         "4",
@@ -4456,7 +4456,7 @@
         "13",
         "14"
       ],
-      "चुम नुव्री Rural Municipality": [
+      "Chum-Nubri Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4465,7 +4465,7 @@
         "6",
         "7"
       ],
-      "धार्चे Rural Municipality": [
+      "Dharche Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4474,7 +4474,7 @@
         "6",
         "7"
       ],
-      "पालुङटार Municipality": [
+      "Palungtar Municipality": [
         "1",
         "2",
         "3",
@@ -4486,7 +4486,7 @@
         "9",
         "10"
       ],
-      "भिमसेनथापा Rural Municipality": [
+      "Bhimsenthapa Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4496,7 +4496,7 @@
         "7",
         "8"
       ],
-      "शहिद लखन Rural Municipality": [
+      "Sahid-Lakhan Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4507,7 +4507,7 @@
         "8",
         "9"
       ],
-      "सिरानचोक Rural Municipality": [
+      "Siranchok Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4517,7 +4517,7 @@
         "7",
         "8"
       ],
-      "बारपाक सुलीकोट Rural Municipality": [
+      "Barpak-sulikot Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4528,22 +4528,22 @@
         "8"
       ]
     },
-    "मनाङ्ग": {
-      "चामे Rural Municipality": [
+    "Manag": {
+      "Chane Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "नार्पा भूमि Rural Municipality": [
+      "Narpa-Bhumi Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "नासोँ Rural Municipality": [
+      "Narshon Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4554,7 +4554,7 @@
         "8",
         "9"
       ],
-      "मनाङ ङिस्याङ Rural Municipality": [
+      "Manag-Ingshyang Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4566,8 +4566,8 @@
         "9"
       ]
     },
-    "लम्जुङ्ग": {
-      "क्व्होलासोथार Rural Municipality": [
+    "Lamjung": {
+      "Kwholasothar Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4578,7 +4578,7 @@
         "8",
         "9"
       ],
-      "दूधपोखरी Rural Municipality": [
+      "Dudhpokhari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4586,7 +4586,7 @@
         "5",
         "6"
       ],
-      "दोर्दी Rural Municipality": [
+      "Dordi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4597,7 +4597,7 @@
         "8",
         "9"
       ],
-      "बेसीशहर Municipality": [
+      "Besisahar Municipality": [
         "1",
         "2",
         "3",
@@ -4610,7 +4610,7 @@
         "10",
         "11"
       ],
-      "मध्यनेपाल Municipality": [
+      "MadhyaNepal Municipality": [
         "1",
         "2",
         "3",
@@ -4622,7 +4622,7 @@
         "9",
         "10"
       ],
-      "मर्स्याङदी Rural Municipality": [
+      "Marsyangdi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4633,7 +4633,7 @@
         "8",
         "9"
       ],
-      "रार्इनास Municipality": [
+      "Rainas Municipality": [
         "1",
         "2",
         "3",
@@ -4645,7 +4645,7 @@
         "9",
         "10"
       ],
-      "सुन्दरबजार Municipality": [
+      "Sundar-bajar Municipality": [
         "1",
         "2",
         "3",
@@ -4659,8 +4659,8 @@
         "11"
       ]
     },
-    "कास्की": {
-      "अन्नपुर्ण Rural Municipality": [
+    "Kaski": {
+      "Annapurna Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4673,7 +4673,7 @@
         "10",
         "11"
       ],
-      "पोखरा महाMunicipality": [
+      "Pokhara Metropolitian City": [
         "1",
         "2",
         "3",
@@ -4708,7 +4708,7 @@
         "32",
         "33"
       ],
-      "माछापुछ्रे Rural Municipality": [
+      "Machhapuchchhre Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4719,7 +4719,7 @@
         "8",
         "9"
       ],
-      "मादी Rural Municipality": [
+      "Madi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4733,7 +4733,7 @@
         "11",
         "12"
       ],
-      "रूपा Rural Municipality": [
+      "Rupa Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4743,8 +4743,8 @@
         "7"
       ]
     },
-    "तनहुँ": {
-      "आँबुखैरेनी Rural Municipality": [
+    "Tanahu": {
+      "Anbukhaireni Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4752,7 +4752,7 @@
         "5",
         "6"
       ],
-      "ऋषिङ्ग Rural Municipality": [
+      "Rhishing Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4762,21 +4762,21 @@
         "7",
         "8"
       ],
-      "घिरिङ Rural Municipality": [
+      "Ghiring Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "देवघाट Rural Municipality": [
+      "Devghat Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "बन्दिपुर Rural Municipality": [
+      "Bandipur Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4784,7 +4784,7 @@
         "5",
         "6"
       ],
-      "भानु Municipality": [
+      "Bhanu Municipality": [
         "1",
         "2",
         "3",
@@ -4799,7 +4799,7 @@
         "12",
         "13"
       ],
-      "भिमाद Municipality": [
+      "Bhimad Municipality": [
         "1",
         "2",
         "3",
@@ -4810,7 +4810,7 @@
         "8",
         "9"
       ],
-      "म्याग्दे Rural Municipality": [
+      "Myagde Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4819,7 +4819,7 @@
         "6",
         "7"
       ],
-      "व्यास Municipality": [
+      "Byas Municipality": [
         "1",
         "2",
         "3",
@@ -4835,7 +4835,7 @@
         "13",
         "14"
       ],
-      "शुक्लागण्डकी Municipality": [
+      "Suklagandaki Municipality": [
         "1",
         "2",
         "3",
@@ -4850,8 +4850,8 @@
         "12"
       ]
     },
-    "स्याङ्जा": {
-      "अर्जुन चौपारी Rural Municipality": [
+    "Syangja": {
+      "Arjun-Chaupari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4859,7 +4859,7 @@
         "5",
         "6"
       ],
-      "आँधीखोला Rural Municipality": [
+      "Aandhikhola Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4867,7 +4867,7 @@
         "5",
         "6"
       ],
-      "कालीगण्डकी Rural Municipality": [
+      "Kaligandaki Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4876,7 +4876,7 @@
         "6",
         "7"
       ],
-      "गल्याङ Municipality": [
+      "Galyang Municipality": [
         "1",
         "2",
         "3",
@@ -4889,7 +4889,7 @@
         "10",
         "11"
       ],
-      "चापाकोट Municipality": [
+      "Chapakot Municipality": [
         "1",
         "2",
         "3",
@@ -4901,7 +4901,7 @@
         "9",
         "10"
       ],
-      "पुतलीबजार Municipality": [
+      "Putalibajar Municipality": [
         "1",
         "2",
         "3",
@@ -4917,14 +4917,14 @@
         "13",
         "14"
       ],
-      "फेदीखोला Rural Municipality": [
+      "Phedikhola Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "भिरकोट Municipality": [
+      "Bhirkot Municipality": [
         "1",
         "2",
         "3",
@@ -4935,7 +4935,7 @@
         "8",
         "9"
       ],
-      "वालिङ Municipality": [
+      "Waling Municipality": [
         "1",
         "2",
         "3",
@@ -4951,7 +4951,7 @@
         "13",
         "14"
       ],
-      "विरुवा Rural Municipality": [
+      "Biruwa Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4961,7 +4961,7 @@
         "7",
         "8"
       ],
-      "हरीनास Rural Municipality": [
+      "Harinas Rural Municipality": [
         "1",
         "2",
         "3",
@@ -4971,8 +4971,8 @@
         "7"
       ]
     },
-    "नवलपरासी (बर्दघाट सुस्ता पूर्व)": {
-      "कावासोती Municipality": [
+    "Nawalparasi East": {
+      "Kawasoti Municipality": [
         "1",
         "2",
         "3",
@@ -4991,7 +4991,7 @@
         "16",
         "17"
       ],
-      "गैडाकोट Municipality": [
+      "Gaidakot Municipality": [
         "1",
         "2",
         "3",
@@ -5011,7 +5011,7 @@
         "17",
         "18"
       ],
-      "देवचुली Municipality": [
+      "Dhevchuli Municipality": [
         "1",
         "2",
         "3",
@@ -5030,7 +5030,7 @@
         "16",
         "17"
       ],
-      "बौदीकाली Rural Municipality": [
+      "Baudeekali Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5038,7 +5038,7 @@
         "5",
         "6"
       ],
-      "बुलिङटार Rural Municipality": [
+      "Bulingtar Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5046,7 +5046,7 @@
         "5",
         "6"
       ],
-      "मध्यविन्दु Municipality": [
+      "Madhyabindu Municipality": [
         "1",
         "2",
         "3",
@@ -5063,7 +5063,7 @@
         "14",
         "15"
       ],
-      "विनयी त्रिवेणी Rural Municipality": [
+      "Bindayee-Tribeni Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5072,7 +5072,7 @@
         "6",
         "7"
       ],
-      "हुप्सेकोट Rural Municipality": [
+      "Hupsekot Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5081,36 +5081,36 @@
         "6"
       ]
     },
-    "मुस्ताङ्ग": {
-      "घरपझोङ Rural Municipality": [
+    "Mustang": {
+      "Gharapjhong Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "थासाङ Rural Municipality": [
+      "Thasang Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "लो-घेकर दामोदरकुण्ड Rural Municipality": [
+      "lo-Ghekar-Damodarkunda Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "वारागुङ मुक्तिक्षेत्र Rural Municipality": [
+      "Waragung-Muktikhsetra Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "लोमन्थाङ Rural Municipality": [
+      "Lomangthang Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5118,8 +5118,8 @@
         "5"
       ]
     },
-    "म्याग्दी": {
-      "अन्नपूर्ण Rural Municipality": [
+    "Myagdi": {
+      "Annapurna Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5129,7 +5129,7 @@
         "7",
         "8"
       ],
-      "धवलागिरी Rural Municipality": [
+      "Dhawalagiri Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5138,7 +5138,7 @@
         "6",
         "7"
       ],
-      "बेनी  Municipality": [
+      "Beni  Municipality": [
         "1",
         "2",
         "3",
@@ -5150,14 +5150,14 @@
         "9",
         "10"
       ],
-      "मंगला Rural Municipality": [
+      "Mangala Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "मालिका Rural Municipality": [
+      "Malika Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5166,7 +5166,7 @@
         "6",
         "7"
       ],
-      "रघुगंगा Rural Municipality": [
+      "Raghuganga Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5177,8 +5177,8 @@
         "8"
       ]
     },
-    "बाग्लुङ": {
-      "काठेखोला Rural Municipality": [
+    "Baglung": {
+      "Kanthekhola Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5188,7 +5188,7 @@
         "7",
         "8"
       ],
-      "गल्कोट Municipality": [
+      "Galkot Municipality": [
         "1",
         "2",
         "3",
@@ -5201,7 +5201,7 @@
         "10",
         "11"
       ],
-      "जैमुनी Municipality": [
+      "Jaimuni Municipality": [
         "1",
         "2",
         "3",
@@ -5213,7 +5213,7 @@
         "9",
         "10"
       ],
-      "ढोरपाटन Municipality": [
+      "Dhorpatan Municipality": [
         "1",
         "2",
         "3",
@@ -5224,7 +5224,7 @@
         "8",
         "9"
       ],
-      "तमानखोला Rural Municipality": [
+      "Taman-Khola Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5232,14 +5232,14 @@
         "5",
         "6"
       ],
-      "ताराखोला Rural Municipality": [
+      "Tara-khola Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "निसीखोला Rural Municipality": [
+      "Nisi-Khola Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5248,7 +5248,7 @@
         "6",
         "7"
       ],
-      "बागलुङ Municipality": [
+      "Baglung Municipality": [
         "1",
         "2",
         "3",
@@ -5264,7 +5264,7 @@
         "13",
         "14"
       ],
-      "वडिगाड Rural Municipality": [
+      "Badigad Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5276,7 +5276,7 @@
         "9",
         "10"
       ],
-      "वरेङ Rural Municipality": [
+      "Bareng Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5284,8 +5284,8 @@
         "5"
       ]
     },
-    "पर्वत": {
-      "कुश्मा Municipality": [
+    "Parbat": {
+      "Kushma Municipality": [
         "1",
         "2",
         "3",
@@ -5301,7 +5301,7 @@
         "13",
         "14"
       ],
-      "जलजला Rural Municipality": [
+      "Jaljala Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5312,7 +5312,7 @@
         "8",
         "9"
       ],
-      "पैयूं Rural Municipality": [
+      "Painyu Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5321,7 +5321,7 @@
         "6",
         "7"
       ],
-      "फलेवास Municipality": [
+      "phalebas Municipality": [
         "1",
         "2",
         "3",
@@ -5334,7 +5334,7 @@
         "10",
         "11"
       ],
-      "महाशिला Rural Municipality": [
+      "Mahashila Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5342,7 +5342,7 @@
         "5",
         "6"
       ],
-      "मोदी Rural Municipality": [
+      "Modi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5352,7 +5352,7 @@
         "7",
         "8"
       ],
-      "विहादी Rural Municipality": [
+      "Bihadi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5362,9 +5362,9 @@
       ]
     }
   },
-  "लुम्बिनी प्रदेश": {
-    "गुल्मी": {
-      "ईस्मा Rural Municipality": [
+  "Lumbini Province": {
+    "Gulmi": {
+      "Isma Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5372,7 +5372,7 @@
         "5",
         "6"
       ],
-      "कालीगण्डकी Rural Municipality": [
+      "Kali-gandaki Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5381,7 +5381,7 @@
         "6",
         "7"
       ],
-      "गुल्मीदरवार Rural Municipality": [
+      "Gulmi-darbar Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5390,7 +5390,7 @@
         "6",
         "7"
       ],
-      "चन्द्रकोट Rural Municipality": [
+      "Chandrakot Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5400,7 +5400,7 @@
         "7",
         "8"
       ],
-      "छत्रकोट Rural Municipality": [
+      "Chhatrakot Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5408,7 +5408,7 @@
         "5",
         "6"
       ],
-      "धुर्कोट Rural Municipality": [
+      "Ghurkot Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5417,7 +5417,7 @@
         "6",
         "7"
       ],
-      "मदाने Rural Municipality": [
+      "Madane Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5426,7 +5426,7 @@
         "6",
         "7"
       ],
-      "मालिका Rural Municipality": [
+      "Malika Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5436,7 +5436,7 @@
         "7",
         "8"
       ],
-      "मुसिकोट Municipality": [
+      "Musikot Municipality": [
         "1",
         "2",
         "3",
@@ -5447,7 +5447,7 @@
         "8",
         "9"
       ],
-      "रुरुक्षेत्र Rural Municipality": [
+      "Ruru Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5455,7 +5455,7 @@
         "5",
         "6"
       ],
-      "रेसुङ्गा Municipality": [
+      "Resunga Municipality": [
         "1",
         "2",
         "3",
@@ -5471,7 +5471,7 @@
         "13",
         "14"
       ],
-      "सत्यवती Rural Municipality": [
+      "Satyawati Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5482,8 +5482,8 @@
         "8"
       ]
     },
-    "पाल्पा": {
-      "तानसेन Municipality": [
+    "Palpa": {
+      "Tansen Municipality": [
         "1",
         "2",
         "3",
@@ -5499,7 +5499,7 @@
         "13",
         "14"
       ],
-      "तिनाउ Rural Municipality": [
+      "Tinau Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5507,7 +5507,7 @@
         "5",
         "6"
       ],
-      "निस्दी Rural Municipality": [
+      "Nisdi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5516,7 +5516,7 @@
         "6",
         "7"
       ],
-      "पूर्वखोला Rural Municipality": [
+      "Purbakhola Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5524,7 +5524,7 @@
         "5",
         "6"
       ],
-      "बगनासकाली Rural Municipality": [
+      "Bagnaskali Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5535,7 +5535,7 @@
         "8",
         "9"
       ],
-      "माथागढी Rural Municipality": [
+      "Mathagadhi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5545,14 +5545,14 @@
         "7",
         "8"
       ],
-      "रम्भा Rural Municipality": [
+      "Rambha Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "रामपुर Municipality": [
+      "Rampuar Municipality": [
         "1",
         "2",
         "3",
@@ -5564,7 +5564,7 @@
         "9",
         "10"
       ],
-      "रिब्दिकोट Rural Municipality": [
+      "Ribdikot Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5574,7 +5574,7 @@
         "7",
         "8"
       ],
-      "रैनादेवी छहरा Rural Municipality": [
+      "Rainadevi-Chhahara Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5585,8 +5585,8 @@
         "8"
       ]
     },
-    "अर्घाखाँची": {
-      "छत्रदेव Rural Municipality": [
+    "Arghakhanchi": {
+      "Chhatradev Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5596,7 +5596,7 @@
         "7",
         "8"
       ],
-      "पाणिनी Rural Municipality": [
+      "Padini Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5606,7 +5606,7 @@
         "7",
         "8"
       ],
-      "भूमिकास्थान Municipality": [
+      "Bhumikaishta Municipality": [
         "1",
         "2",
         "3",
@@ -5618,7 +5618,7 @@
         "9",
         "10"
       ],
-      "मालारानी Rural Municipality": [
+      "Malarani Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5629,7 +5629,7 @@
         "8",
         "9"
       ],
-      "सन्धिखर्क Municipality": [
+      "Sandhikharka Municipality": [
         "1",
         "2",
         "3",
@@ -5643,7 +5643,7 @@
         "11",
         "12"
       ],
-      "सितगंगा Municipality": [
+      "Sitganga Municipality": [
         "1",
         "2",
         "3",
@@ -5660,8 +5660,8 @@
         "14"
       ]
     },
-    "रुपन्देही": {
-      "ओमसतिया Rural Municipality": [
+    "Rupandehi": {
+      "Omsatiya Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5669,14 +5669,14 @@
         "5",
         "6"
       ],
-      "कंचन Rural Municipality": [
+      "Kanchan Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "कोटहीमाई Rural Municipality": [
+      "Kotahimai Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5685,7 +5685,7 @@
         "6",
         "7"
       ],
-      "गैडहवा Rural Municipality": [
+      "Gaidahawa Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5696,7 +5696,7 @@
         "8",
         "9"
       ],
-      "तिलोत्तमा Municipality": [
+      "Tilotama Municipality": [
         "1",
         "2",
         "3",
@@ -5715,7 +5715,7 @@
         "16",
         "17"
       ],
-      "देवदह Municipality": [
+      "Devdaha Municipality": [
         "1",
         "2",
         "3",
@@ -5729,7 +5729,7 @@
         "11",
         "12"
       ],
-      "बुटवल उपमहाMunicipality": [
+      "Butwal sub-metropoltian City": [
         "1",
         "2",
         "3",
@@ -5750,7 +5750,7 @@
         "18",
         "19"
       ],
-      "मर्चवारी Rural Municipality": [
+      "Marchawari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5759,7 +5759,7 @@
         "6",
         "7"
       ],
-      "मायादेवी Rural Municipality": [
+      "Mayadevi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5769,7 +5769,7 @@
         "7",
         "8"
       ],
-      "रोहिणी Rural Municipality": [
+      "Rohini Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5778,7 +5778,7 @@
         "6",
         "7"
       ],
-      "लुम्बिनी सांस्कृतिक Municipality": [
+      "Lumbini-sanskritik Municipality": [
         "1",
         "2",
         "3",
@@ -5793,7 +5793,7 @@
         "12",
         "13"
       ],
-      "शुद्धोधन Rural Municipality": [
+      "Sudhdhodan Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5802,7 +5802,7 @@
         "6",
         "7"
       ],
-      "सम्मरीमाई Rural Municipality": [
+      "Sammarimai Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5811,7 +5811,7 @@
         "6",
         "7"
       ],
-      "सिद्धार्थनगर Municipality": [
+      "SiddharthaNagar Municipality": [
         "1",
         "2",
         "3",
@@ -5826,7 +5826,7 @@
         "12",
         "13"
       ],
-      "सियारी Rural Municipality": [
+      "Siyari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5835,7 +5835,7 @@
         "6",
         "7"
       ],
-      "सैनामैना Municipality": [
+      "Sainamaina Municipality": [
         "1",
         "2",
         "3",
@@ -5849,8 +5849,8 @@
         "11"
       ]
     },
-    "कपिलवस्तु": {
-      "कपिलवस्तु Municipality": [
+    "Kapilbastu": {
+      "Kapilbastu Municipality": [
         "1",
         "2",
         "3",
@@ -5864,7 +5864,7 @@
         "11",
         "12"
       ],
-      "कृष्णनगर Municipality": [
+      "Krishnanagar Municipality": [
         "1",
         "2",
         "3",
@@ -5878,7 +5878,7 @@
         "11",
         "12"
       ],
-      "बाणगंगा Municipality": [
+      "Banganga Municipality": [
         "1",
         "2",
         "3",
@@ -5891,7 +5891,7 @@
         "10",
         "11"
       ],
-      "बुद्धभूमी Municipality": [
+      "Buddhabhumi Municipality": [
         "1",
         "2",
         "3",
@@ -5903,7 +5903,7 @@
         "9",
         "10"
       ],
-      "महाराजगंज Municipality": [
+      "Maharajgunj Municipality": [
         "1",
         "2",
         "3",
@@ -5916,7 +5916,7 @@
         "10",
         "11"
       ],
-      "मायादेवी Rural Municipality": [
+      "Mayadevi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5926,7 +5926,7 @@
         "7",
         "8"
       ],
-      "यसोधरा Rural Municipality": [
+      "Yashodhara Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5936,7 +5936,7 @@
         "7",
         "8"
       ],
-      "विजयनगर Rural Municipality": [
+      "Bijayanagar Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5945,7 +5945,7 @@
         "6",
         "7"
       ],
-      "शिवराज Municipality": [
+      "Shivaraj Municipality": [
         "1",
         "2",
         "3",
@@ -5958,7 +5958,7 @@
         "10",
         "11"
       ],
-      "शुद्धोधन Rural Municipality": [
+      "Suddhodhan Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5967,8 +5967,8 @@
         "6"
       ]
     },
-    "रुकुम पूर्व": {
-      "पुथा उत्तरगंगा Rural Municipality": [
+    "Rukum East": {
+      "Putha Uttarganga Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5984,7 +5984,7 @@
         "13",
         "14"
       ],
-      "भूमे Rural Municipality": [
+      "Bhume Rural Municipality": [
         "1",
         "2",
         "3",
@@ -5995,7 +5995,7 @@
         "8",
         "9"
       ],
-      "सिस्ने Rural Municipality": [
+      "Sisne Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6006,8 +6006,8 @@
         "8"
       ]
     },
-    "रोल्पा": {
-      "त्रिवेणी Rural Municipality": [
+    "Rolpa": {
+      "Tribeni Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6016,14 +6016,14 @@
         "6",
         "7"
       ],
-      "थवाङ Rural Municipality": [
+      "Thawang Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "परिवर्तन Rural Municipality": [
+      "Pariwartan Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6031,7 +6031,7 @@
         "5",
         "6"
       ],
-      "माडी Rural Municipality": [
+      "Madi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6039,7 +6039,7 @@
         "5",
         "6"
       ],
-      "रुन्टीगढी Rural Municipality": [
+      "Runtigadi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6050,7 +6050,7 @@
         "8",
         "9"
       ],
-      "रोल्पा Municipality": [
+      "Rolpa Municipality": [
         "1",
         "2",
         "3",
@@ -6062,7 +6062,7 @@
         "9",
         "10"
       ],
-      "लुङग्री Rural Municipality": [
+      "Lungri Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6071,7 +6071,7 @@
         "6",
         "7"
       ],
-      "गंगादेव Rural Municipality": [
+      "Gangadev Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6080,7 +6080,7 @@
         "6",
         "7"
       ],
-      "सुनछहरी Rural Municipality": [
+      "Sunchhahari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6089,7 +6089,7 @@
         "6",
         "7"
       ],
-      "सुनिल स्मृति Rural Municipality": [
+      "Sunil Smriti Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6100,8 +6100,8 @@
         "8"
       ]
     },
-    "प्युठान": {
-      "ऐरावती Rural Municipality": [
+    "Pyuthan": {
+      "Ayirabati Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6109,7 +6109,7 @@
         "5",
         "6"
       ],
-      "गौमुखी Rural Municipality": [
+      "Gaumukhi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6118,7 +6118,7 @@
         "6",
         "7"
       ],
-      "झिमरुक Rural Municipality": [
+      "Jhimruk Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6128,7 +6128,7 @@
         "7",
         "8"
       ],
-      "नौवहिनी Rural Municipality": [
+      "Naubahini Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6138,7 +6138,7 @@
         "7",
         "8"
       ],
-      "प्यूठान Municipality": [
+      "Pyuthan Municipality": [
         "1",
         "2",
         "3",
@@ -6150,21 +6150,21 @@
         "9",
         "10"
       ],
-      "मल्लरानी Rural Municipality": [
+      "Mallarani Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "माण्डवी Rural Municipality": [
+      "Mandavi Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "सरुमारानी Rural Municipality": [
+      "Sarumarani Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6172,7 +6172,7 @@
         "5",
         "6"
       ],
-      "स्वर्गद्वारी Municipality": [
+      "Sworgadwary Municipality": [
         "1",
         "2",
         "3",
@@ -6184,8 +6184,8 @@
         "9"
       ]
     },
-    "दाङ": {
-      "गढवा Rural Municipality": [
+    "Dang": {
+      "Gadhawa Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6195,7 +6195,7 @@
         "7",
         "8"
       ],
-      "घोराही उपमहाMunicipality": [
+      "Ghorahi Sub-Metropolitan City": [
         "1",
         "2",
         "3",
@@ -6216,7 +6216,7 @@
         "18",
         "19"
       ],
-      "तुल्सिपुर उपमहाMunicipality": [
+      "Tulsipur Sub-Metropolitan City": [
         "1",
         "2",
         "3",
@@ -6237,7 +6237,7 @@
         "18",
         "19"
       ],
-      "दंगीशरण Rural Municipality": [
+      "Dangisharan Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6246,7 +6246,7 @@
         "6",
         "7"
       ],
-      "बंगलाचुली Rural Municipality": [
+      "Banglachuli Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6256,7 +6256,7 @@
         "7",
         "8"
       ],
-      "बबई Rural Municipality": [
+      "Babai Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6265,7 +6265,7 @@
         "6",
         "7"
       ],
-      "राजपुर Rural Municipality": [
+      "Rajpur Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6274,7 +6274,7 @@
         "6",
         "7"
       ],
-      "राप्ती Rural Municipality": [
+      "Rapti Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6285,7 +6285,7 @@
         "8",
         "9"
       ],
-      "लमही Municipality": [
+      "Lamahi Municipality": [
         "1",
         "2",
         "3",
@@ -6296,7 +6296,7 @@
         "8",
         "9"
       ],
-      "शान्तिनगर Rural Municipality": [
+      "Shantinagar Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6306,8 +6306,8 @@
         "7"
       ]
     },
-    "बाँके": {
-      "कोहलपुर Municipality": [
+    "Banke": {
+      "Kohalpur Municipality": [
         "1",
         "2",
         "3",
@@ -6324,7 +6324,7 @@
         "14",
         "15"
       ],
-      "खजुरा Rural Municipality": [
+      "Khajura Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6334,7 +6334,7 @@
         "7",
         "8"
       ],
-      "जानकी Rural Municipality": [
+      "Janaki Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6342,7 +6342,7 @@
         "5",
         "6"
       ],
-      "डुडुवा Rural Municipality": [
+      "Duduwa Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6350,7 +6350,7 @@
         "5",
         "6"
       ],
-      "नरैनापुर Rural Municipality": [
+      "Narainapur Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6358,7 +6358,7 @@
         "5",
         "6"
       ],
-      "नेपालगंज उपमहाMunicipality": [
+      "Nepalgunj Sub-Metropolitan City": [
         "1",
         "2",
         "3",
@@ -6383,7 +6383,7 @@
         "22",
         "23"
       ],
-      "बैजनाथ Rural Municipality": [
+      "Baijanath Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6393,7 +6393,7 @@
         "7",
         "8"
       ],
-      "राप्ती सोनारी Rural Municipality": [
+      "Rapti Sonari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6405,8 +6405,8 @@
         "9"
       ]
     },
-    "बर्दिया": {
-      "गुलरिया Municipality": [
+    "Bardiya": {
+      "Gulariya Municipality": [
         "1",
         "2",
         "3",
@@ -6420,7 +6420,7 @@
         "11",
         "12"
       ],
-      "गेरुवा Rural Municipality": [
+      "Geruwa Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6428,7 +6428,7 @@
         "5",
         "6"
       ],
-      "ठाकुरबाबा Municipality": [
+      "Thakurbaba Municipality": [
         "1",
         "2",
         "3",
@@ -6439,7 +6439,7 @@
         "8",
         "9"
       ],
-      "बढैयाताल Rural Municipality": [
+      "Badhaiyatal Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6450,7 +6450,7 @@
         "8",
         "9"
       ],
-      "बारबर्दिया Municipality": [
+      "Barbardiya Municipality": [
         "1",
         "2",
         "3",
@@ -6463,7 +6463,7 @@
         "10",
         "11"
       ],
-      "बासगढी Municipality": [
+      "Bansagadhi Municipality": [
         "1",
         "2",
         "3",
@@ -6474,7 +6474,7 @@
         "8",
         "9"
       ],
-      "मधुवन Municipality": [
+      "Madhuwan Municipality": [
         "1",
         "2",
         "3",
@@ -6485,7 +6485,7 @@
         "8",
         "9"
       ],
-      "राजापुर Municipality": [
+      "Rajapur Municipality": [
         "1",
         "2",
         "3",
@@ -6498,15 +6498,15 @@
         "10"
       ]
     },
-    "नवलपरासी (बर्दघाट सुस्ता पश्चिम)": {
-      "सुस्ता Rural Municipality": [
+    "Nawalparasi (Bardaghat Susta West)": {
+      "Susta Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "पाल्हीनन्दन Rural Municipality": [
+      "Palhi Nandan Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6514,7 +6514,7 @@
         "5",
         "6"
       ],
-      "प्रतापपुर Rural Municipality": [
+      "Pratapur Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6525,7 +6525,7 @@
         "8",
         "9"
       ],
-      "बर्दघाट Municipality": [
+      "Bardaghat Municipality": [
         "1",
         "2",
         "3",
@@ -6543,7 +6543,7 @@
         "15",
         "16"
       ],
-      "रामग्राम Municipality": [
+      "Ramgram Municipality": [
         "1",
         "2",
         "3",
@@ -6563,7 +6563,7 @@
         "17",
         "18"
       ],
-      "सरावल Rural Municipality": [
+      "Sarawal Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6572,7 +6572,7 @@
         "6",
         "7"
       ],
-      "सुनवल Municipality": [
+      "Sunwal Municipality": [
         "1",
         "2",
         "3",
@@ -6589,9 +6589,9 @@
       ]
     }
   },
-  "कर्णाली प्रदेश": {
-    "सल्यान": {
-      "कपुरकोट Rural Municipality": [
+  "Karnali Province": {
+    "Salyan": {
+      "Kapurkot Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6599,7 +6599,7 @@
         "5",
         "6"
       ],
-      "कालीमाटी Rural Municipality": [
+      "Kalimati Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6608,7 +6608,7 @@
         "6",
         "7"
       ],
-      "कुमाख Rural Municipality": [
+      "Kumakh Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6617,7 +6617,7 @@
         "6",
         "7"
       ],
-      "छत्रेश्वरी Rural Municipality": [
+      "Chhatreshwori Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6626,14 +6626,14 @@
         "6",
         "7"
       ],
-      "सिद्ध कुमाख Rural Municipality": [
+      "Siddha Kumakh Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "त्रिवेणी Rural Municipality": [
+      "Tribeni Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6641,7 +6641,7 @@
         "5",
         "6"
       ],
-      "दार्मा Rural Municipality": [
+      "Darma Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6649,7 +6649,7 @@
         "5",
         "6"
       ],
-      "बनगाड कुपिण्डे Municipality": [
+      "Bangad Kupinde Municipality": [
         "1",
         "2",
         "3",
@@ -6663,7 +6663,7 @@
         "11",
         "12"
       ],
-      "बागचौर Municipality": [
+      "Bagchaur Municipality": [
         "1",
         "2",
         "3",
@@ -6677,7 +6677,7 @@
         "11",
         "12"
       ],
-      "शारदा Municipality": [
+      "Sharada Municipality": [
         "1",
         "2",
         "3",
@@ -6695,8 +6695,8 @@
         "15"
       ]
     },
-    "डोल्पा": {
-      "काईके Rural Municipality": [
+    "Dolpa": {
+      "Kaike Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6705,7 +6705,7 @@
         "6",
         "7"
       ],
-      "छार्का ताङसोङ Rural Municipality": [
+      "Chharka Tangsong Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6713,7 +6713,7 @@
         "5",
         "6"
       ],
-      "जगदुल्ला Rural Municipality": [
+      "Jagadulla Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6721,7 +6721,7 @@
         "5",
         "6"
       ],
-      "ठूली भेरी Municipality": [
+      "Thuli Bheri Municipality": [
         "1",
         "2",
         "3",
@@ -6734,7 +6734,7 @@
         "10",
         "11"
       ],
-      "डोल्पो बुद्ध Rural Municipality": [
+      "Dolpo Buddha Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6742,7 +6742,7 @@
         "5",
         "6"
       ],
-      "त्रिपुरासुन्दरी Municipality": [
+      "Tripurasundari Municipality": [
         "1",
         "2",
         "3",
@@ -6755,7 +6755,7 @@
         "10",
         "11"
       ],
-      "मुड्केचुला Rural Municipality": [
+      "Mudkechula Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6766,7 +6766,7 @@
         "8",
         "9"
       ],
-      "शे फोक्सुन्डो Rural Municipality": [
+      "Shey Phoksundo Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6778,8 +6778,8 @@
         "9"
       ]
     },
-    "मुगु": {
-      "खत्याड Rural Municipality": [
+    "Mugu": {
+      "Soru Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6792,7 +6792,7 @@
         "10",
         "11"
       ],
-      "छायाँनाथ रारा Municipality": [
+      "Chhayanath Rara Municipality": [
         "1",
         "2",
         "3",
@@ -6808,7 +6808,7 @@
         "13",
         "14"
       ],
-      "मुगुम कार्मारोंग Rural Municipality": [
+      "Mugum Karmarong Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6819,7 +6819,7 @@
         "8",
         "9"
       ],
-      "सोरु Rural Municipality": [
+      "Soru Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6833,8 +6833,8 @@
         "11"
       ]
     },
-    "जुम्ला": {
-      "कनकासुन्दरी Rural Municipality": [
+    "Jumla": {
+      "Kanakasundari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6844,14 +6844,14 @@
         "7",
         "8"
       ],
-      "गुठिचौर Rural Municipality": [
+      "Guthichaur Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "चन्दननाथ Municipality": [
+      "Chandannath Municipality": [
         "1",
         "2",
         "3",
@@ -6863,7 +6863,7 @@
         "9",
         "10"
       ],
-      "तातोपानी Rural Municipality": [
+      "Tatopani Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6873,7 +6873,7 @@
         "7",
         "8"
       ],
-      "तिला Rural Municipality": [
+      "Tila Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6884,7 +6884,7 @@
         "8",
         "9"
       ],
-      "पातारासी Rural Municipality": [
+      "Patrasi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6893,7 +6893,7 @@
         "6",
         "7"
       ],
-      "सिंजा Rural Municipality": [
+      "Sinja Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6901,7 +6901,7 @@
         "5",
         "6"
       ],
-      "हिमा Rural Municipality": [
+      "Hima Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6911,8 +6911,8 @@
         "7"
       ]
     },
-    "कालिकोट": {
-      "शुभ कालीका Rural Municipality": [
+    "Kalikot": {
+      "Subha Kalika Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6922,7 +6922,7 @@
         "7",
         "8"
       ],
-      "खाँडाचक्र Municipality": [
+      "Khandachakra Municipality": [
         "1",
         "2",
         "3",
@@ -6935,7 +6935,7 @@
         "10",
         "11"
       ],
-      "तिलागुफा Municipality": [
+      "Tilagufa Municipality": [
         "1",
         "2",
         "3",
@@ -6948,7 +6948,7 @@
         "10",
         "11"
       ],
-      "नरहरिनाथ Rural Municipality": [
+      "Naraharinath Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6959,7 +6959,7 @@
         "8",
         "9"
       ],
-      "पचालझरना Rural Municipality": [
+      "Pachaljharana Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6970,7 +6970,7 @@
         "8",
         "9"
       ],
-      "पलाता Rural Municipality": [
+      "Patala Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6981,7 +6981,7 @@
         "8",
         "9"
       ],
-      "महावै Rural Municipality": [
+      "Mahawai Rural Municipality": [
         "1",
         "2",
         "3",
@@ -6990,7 +6990,7 @@
         "6",
         "7"
       ],
-      "रास्कोट Municipality": [
+      "Raskot Municipality": [
         "1",
         "2",
         "3",
@@ -7001,7 +7001,7 @@
         "8",
         "9"
       ],
-      "सान्नी त्रिवेणी Rural Municipality": [
+      "Sanni Tribeni Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7013,8 +7013,8 @@
         "9"
       ]
     },
-    "हुम्ला": {
-      "अदानचुली Rural Municipality": [
+    "Humla": {
+      "Adanchuli Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7022,14 +7022,14 @@
         "5",
         "6"
       ],
-      "खार्पुनाथ Rural Municipality": [
+      "Kharpunath Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "चंखेली Rural Municipality": [
+      "Chankheli Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7037,14 +7037,14 @@
         "5",
         "6"
       ],
-      "ताँजाकोट Rural Municipality": [
+      "Tanjakot Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "नाम्खा Rural Municipality": [
+      "Namkha Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7052,7 +7052,7 @@
         "5",
         "6"
       ],
-      "सर्केगाड Rural Municipality": [
+      "Sarkegad Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7062,7 +7062,7 @@
         "7",
         "8"
       ],
-      "सिमकोट Rural Municipality": [
+      "Simkot Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7073,8 +7073,8 @@
         "8"
       ]
     },
-    "जाजरकोट": {
-      "कुसे Rural Municipality": [
+    "Jajarkot": {
+      "Kuse Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7085,7 +7085,7 @@
         "8",
         "9"
       ],
-      "छेडागाड Municipality": [
+      "Chhedagad Municipality": [
         "1",
         "2",
         "3",
@@ -7100,7 +7100,7 @@
         "12",
         "13"
       ],
-      "जुनीचाँदे Rural Municipality": [
+      "Junichande Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7113,7 +7113,7 @@
         "10",
         "11"
       ],
-      "नलगाड Municipality": [
+      "Nalagad Municipality": [
         "1",
         "2",
         "3",
@@ -7128,7 +7128,7 @@
         "12",
         "13"
       ],
-      "बारेकोट Rural Municipality": [
+      "Barekot Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7139,7 +7139,7 @@
         "8",
         "9"
       ],
-      "भेरी Municipality": [
+      "Bheri Municipality": [
         "1",
         "2",
         "3",
@@ -7154,7 +7154,7 @@
         "12",
         "13"
       ],
-      "शिवालय Rural Municipality": [
+      "Shiwalaya Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7166,8 +7166,8 @@
         "9"
       ]
     },
-    "दैलेख": {
-      "आठबीस Municipality": [
+    "Dailekh": {
+      "Aathabis Municipality": [
         "1",
         "2",
         "3",
@@ -7178,7 +7178,7 @@
         "8",
         "9"
       ],
-      "गुराँस Rural Municipality": [
+      "Gurans Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7188,7 +7188,7 @@
         "7",
         "8"
       ],
-      "चामुण्डा विन्द्रासैनी Municipality": [
+      "Chamunda Bindrasani Municipality": [
         "1",
         "2",
         "3",
@@ -7199,7 +7199,7 @@
         "8",
         "9"
       ],
-      "ठाँटीकाँध Rural Municipality": [
+      "Thantikandh Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7207,7 +7207,7 @@
         "5",
         "6"
       ],
-      "डुंगेश्वर Rural Municipality": [
+      "Dungeshwor Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7215,7 +7215,7 @@
         "5",
         "6"
       ],
-      "दुल्लु Municipality": [
+      "Dullu Municipality": [
         "1",
         "2",
         "3",
@@ -7230,7 +7230,7 @@
         "12",
         "13"
       ],
-      "नारायण Municipality": [
+      "Narayan Municipality": [
         "1",
         "2",
         "3",
@@ -7243,7 +7243,7 @@
         "10",
         "11"
       ],
-      "नौमुले Rural Municipality": [
+      "Naumule Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7253,7 +7253,7 @@
         "7",
         "8"
       ],
-      "भगवतीमाई Rural Municipality": [
+      "Bhagawatimai Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7262,7 +7262,7 @@
         "6",
         "7"
       ],
-      "भैरवी Rural Municipality": [
+      "Bhairabi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7271,7 +7271,7 @@
         "6",
         "7"
       ],
-      "महावु Rural Municipality": [
+      "Mahabu Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7280,8 +7280,8 @@
         "6"
       ]
     },
-    "सुर्खेत": {
-      "गुर्भाकोट Municipality": [
+    "Surkhet": {
+      "Gurbhakot Municipality": [
         "1",
         "2",
         "3",
@@ -7297,7 +7297,7 @@
         "13",
         "14"
       ],
-      "चिङ्गाड Rural Municipality": [
+      "Chingad Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7305,7 +7305,7 @@
         "5",
         "6"
       ],
-      "चौकुने Rural Municipality": [
+      "Chaukune Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7317,7 +7317,7 @@
         "9",
         "10"
       ],
-      "पञ्चपुरी Municipality": [
+      "Panchpuri Municipality": [
         "1",
         "2",
         "3",
@@ -7330,7 +7330,7 @@
         "10",
         "11"
       ],
-      "बराहताल Rural Municipality": [
+      "Barahatal Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7342,7 +7342,7 @@
         "9",
         "10"
       ],
-      "बीरेन्द्रनगर Municipality": [
+      "Birendranagar Municipality": [
         "1",
         "2",
         "3",
@@ -7360,7 +7360,7 @@
         "15",
         "16"
       ],
-      "भेरीगंगा Municipality": [
+      "Bheriganga Municipality": [
         "1",
         "2",
         "3",
@@ -7375,7 +7375,7 @@
         "12",
         "13"
       ],
-      "लेकबेशी Municipality": [
+      "Lekbeshi Municipality": [
         "1",
         "2",
         "3",
@@ -7387,7 +7387,7 @@
         "9",
         "10"
       ],
-      "सिम्ता Rural Municipality": [
+      "Simta Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7399,8 +7399,8 @@
         "9"
       ]
     },
-    "रुकुम पश्चिम": {
-      "आठबिसकोट Municipality": [
+    "Rukum West": {
+      "Aathbiskot Municipality": [
         "1",
         "2",
         "3",
@@ -7416,7 +7416,7 @@
         "13",
         "14"
       ],
-      "चौरजहारी Municipality": [
+      "Chaurjahari Municipality": [
         "1",
         "2",
         "3",
@@ -7432,7 +7432,7 @@
         "13",
         "14"
       ],
-      "त्रिवेणी Rural Municipality": [
+      "Tribeni Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7444,7 +7444,7 @@
         "9",
         "10"
       ],
-      "बाँफिकोट Rural Municipality": [
+      "Banfikot Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7456,7 +7456,7 @@
         "9",
         "10"
       ],
-      "मुसिकोट Municipality": [
+      "Musikot Municipality": [
         "1",
         "2",
         "3",
@@ -7472,7 +7472,7 @@
         "13",
         "14"
       ],
-      "सानीभेरी Rural Municipality": [
+      "Sani Bheri Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7487,9 +7487,9 @@
       ]
     }
   },
-  "सुदूरपश्चिम प्रदेश": {
-    "बाजुरा": {
-      "गौमुल Rural Municipality": [
+  "Sudurpaschim Province": {
+    "Bajura": {
+      "Gaumul Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7497,7 +7497,7 @@
         "5",
         "6"
       ],
-      "खप्तड छेडेदह Rural Municipality": [
+      "Khaptad Chhededaha Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7506,7 +7506,7 @@
         "6",
         "7"
       ],
-      "त्रिवेणी Municipality": [
+      "Tribeni Municipality": [
         "1",
         "2",
         "3",
@@ -7517,7 +7517,7 @@
         "8",
         "9"
       ],
-      "जगन्नाथ Rural Municipality": [
+      "Jagannath Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7525,7 +7525,7 @@
         "5",
         "6"
       ],
-      "बडीमालिका Municipality": [
+      "Badimalika Municipality": [
         "1",
         "2",
         "3",
@@ -7536,7 +7536,7 @@
         "8",
         "9"
       ],
-      "बुढीगंगा Municipality": [
+      "Budhiganga Municipality": [
         "1",
         "2",
         "3",
@@ -7548,7 +7548,7 @@
         "9",
         "10"
       ],
-      "बुढीनन्दा Municipality": [
+      "Budhinanda Municipality": [
         "1",
         "2",
         "3",
@@ -7560,14 +7560,14 @@
         "9",
         "10"
       ],
-      "स्वामीकार्तिक खापर Rural Municipality": [
+      "Swami Kartik Khaapar Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "हिमाली Rural Municipality": [
+      "Himali Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7577,8 +7577,8 @@
         "7"
       ]
     },
-    "अछाम": {
-      "कमलबजार Municipality": [
+    "Achham": {
+      "Kamalbazar Municipality": [
         "1",
         "2",
         "3",
@@ -7590,7 +7590,7 @@
         "9",
         "10"
       ],
-      "चौरपाटी Rural Municipality": [
+      "Chaurpati Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7599,7 +7599,7 @@
         "6",
         "7"
       ],
-      "ढकारी Rural Municipality": [
+      "Dhakari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7609,7 +7609,7 @@
         "7",
         "8"
       ],
-      "तुर्माखाँद Rural Municipality": [
+      "Turmakhad Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7619,7 +7619,7 @@
         "7",
         "8"
       ],
-      "पञ्चदेवल विनायक Municipality": [
+      "Panchadewal Binayak Municipality": [
         "1",
         "2",
         "3",
@@ -7630,7 +7630,7 @@
         "8",
         "9"
       ],
-      "बान्नीगढी जयगढ Rural Municipality": [
+      "Bannigadhi Jayagadh Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7638,7 +7638,7 @@
         "5",
         "6"
       ],
-      "मंगलसेन Municipality": [
+      "Mangalsen Municipality": [
         "1",
         "2",
         "3",
@@ -7654,7 +7654,7 @@
         "13",
         "14"
       ],
-      "मेल्लेख Rural Municipality": [
+      "Mallekh Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7664,7 +7664,7 @@
         "7",
         "8"
       ],
-      "रामारोशन Rural Municipality": [
+      "Ramaroshan Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7673,7 +7673,7 @@
         "6",
         "7"
       ],
-      "साफेबगर Municipality": [
+      "Sanphebagar Municipality": [
         "1",
         "2",
         "3",
@@ -7690,15 +7690,15 @@
         "14"
       ]
     },
-    "बझाङ्ग": {
-      "साइपाल Rural Municipality": [
+    "Bajhang": {
+      "Saipal Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "केदारस्युँ Rural Municipality": [
+      "Kedarseu Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7709,7 +7709,7 @@
         "8",
         "9"
       ],
-      "खप्तडछान्ना Rural Municipality": [
+      "Khaptadchhanna Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7718,7 +7718,7 @@
         "6",
         "7"
       ],
-      "छबिसपाथिभेरा Rural Municipality": [
+      "Chabispathivera Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7727,7 +7727,7 @@
         "6",
         "7"
       ],
-      "जयपृथ्वी Municipality": [
+      "Jayaprithivi Municipality": [
         "1",
         "2",
         "3",
@@ -7740,7 +7740,7 @@
         "10",
         "11"
       ],
-      "तलकोट Rural Municipality": [
+      "Talkot Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7749,7 +7749,7 @@
         "6",
         "7"
       ],
-      "थलारा Rural Municipality": [
+      "Thalara Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7760,7 +7760,7 @@
         "8",
         "9"
       ],
-      "दुर्गाथली Rural Municipality": [
+      "Durgathali Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7769,7 +7769,7 @@
         "6",
         "7"
       ],
-      "बुंगल Municipality": [
+      "Bungal Municipality": [
         "1",
         "2",
         "3",
@@ -7782,7 +7782,7 @@
         "10",
         "11"
       ],
-      "मष्टा Rural Municipality": [
+      "Masta Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7791,7 +7791,7 @@
         "6",
         "7"
       ],
-      "वित्थडचिर Rural Municipality": [
+      "Bithadchir Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7802,7 +7802,7 @@
         "8",
         "9"
       ],
-      "सूर्मा Rural Municipality": [
+      "Surma Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7810,8 +7810,8 @@
         "5"
       ]
     },
-    "डोटी": {
-      "आदर्श Rural Municipality": [
+    "Doti": {
+      "Adarsha Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7820,7 +7820,7 @@
         "6",
         "7"
       ],
-      "के.आई.सिं. Rural Municipality": [
+      "K. I. Singh. Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7829,7 +7829,7 @@
         "6",
         "7"
       ],
-      "जोरायल Rural Municipality": [
+      "Jorayal Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7837,7 +7837,7 @@
         "5",
         "6"
       ],
-      "दिपायल सिलगढी Municipality": [
+      "Dipayal Silgadi Municipality": [
         "1",
         "2",
         "3",
@@ -7848,7 +7848,7 @@
         "8",
         "9"
       ],
-      "पूर्वीचौकी Rural Municipality": [
+      "Purbichauki Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7857,14 +7857,14 @@
         "6",
         "7"
       ],
-      "बडीकेदार Rural Municipality": [
+      "Badikedar Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "बोगटान फुड्सिल Rural Municipality": [
+      "Bogtan Fudsil  Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7873,7 +7873,7 @@
         "6",
         "7"
       ],
-      "शिखर Municipality": [
+      "Shikhar Municipality": [
         "1",
         "2",
         "3",
@@ -7886,7 +7886,7 @@
         "10",
         "11"
       ],
-      "सायल Rural Municipality": [
+      "Sayal Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7895,8 +7895,8 @@
         "6"
       ]
     },
-    "कैलाली": {
-      "कैलारी Rural Municipality": [
+    "Kailali": {
+      "Kailari Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7907,7 +7907,7 @@
         "8",
         "9"
       ],
-      "गोदावरी Municipality": [
+      "Godawari Municipality": [
         "1",
         "2",
         "3",
@@ -7921,7 +7921,7 @@
         "11",
         "12"
       ],
-      "गौरीगंगा Municipality": [
+      "Gauriganga Municipality": [
         "1",
         "2",
         "3",
@@ -7934,7 +7934,7 @@
         "10",
         "11"
       ],
-      "घोडाघोडी Municipality": [
+      "Ghodaghodi Municipality": [
         "1",
         "2",
         "3",
@@ -7948,7 +7948,7 @@
         "11",
         "12"
       ],
-      "चुरे Rural Municipality": [
+      "Chure Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7956,7 +7956,7 @@
         "5",
         "6"
       ],
-      "जानकी Rural Municipality": [
+      "Janaki Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7967,7 +7967,7 @@
         "8",
         "9"
       ],
-      "जोशीपुर Rural Municipality": [
+      "Joshipur Rural Municipality": [
         "1",
         "2",
         "3",
@@ -7976,7 +7976,7 @@
         "6",
         "7"
       ],
-      "टिकापुर Municipality": [
+      "Tikapur Municipality": [
         "1",
         "2",
         "3",
@@ -7987,7 +7987,7 @@
         "8",
         "9"
       ],
-      "धनगढी उपमहाMunicipality": [
+      "Dhangadhi Sub Metropolitan City": [
         "1",
         "2",
         "3",
@@ -8008,7 +8008,7 @@
         "18",
         "19"
       ],
-      "बर्दगोरीया Rural Municipality": [
+      "Bardagoriya Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8016,7 +8016,7 @@
         "5",
         "6"
       ],
-      "भजनी Municipality": [
+      "Bhajani Municipality": [
         "1",
         "2",
         "3",
@@ -8027,7 +8027,7 @@
         "8",
         "9"
       ],
-      "मोहन्याल Rural Municipality": [
+      "Mohanyal Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8036,7 +8036,7 @@
         "6",
         "7"
       ],
-      "लम्की चुहा Municipality": [
+      "Lamkichuha Municipality": [
         "1",
         "2",
         "3",
@@ -8049,8 +8049,8 @@
         "10"
       ]
     },
-    "दार्चुला": {
-      "अपिहिमाल Rural Municipality": [
+    "Darchula": {
+      "Apihimal Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8058,14 +8058,14 @@
         "5",
         "6"
       ],
-      "दुहुँ Rural Municipality": [
+      "Dunhu Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "नौगाड Rural Municipality": [
+      "Naugad Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8073,7 +8073,7 @@
         "5",
         "6"
       ],
-      "ब्यास Rural Municipality": [
+      "Byas Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8081,7 +8081,7 @@
         "5",
         "6"
       ],
-      "महाकाली Municipality": [
+      "Mahakali Municipality": [
         "1",
         "2",
         "3",
@@ -8092,7 +8092,7 @@
         "8",
         "9"
       ],
-      "मार्मा Rural Municipality": [
+      "Marma Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8100,7 +8100,7 @@
         "5",
         "6"
       ],
-      "मालिकार्जुन Rural Municipality": [
+      "Malikaarjun Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8110,7 +8110,7 @@
         "7",
         "8"
       ],
-      "लेकम Rural Municipality": [
+      "Lekam Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8118,7 +8118,7 @@
         "5",
         "6"
       ],
-      "शैल्यशिखर Municipality": [
+      "Shailyashikhar Municipality": [
         "1",
         "2",
         "3",
@@ -8130,8 +8130,8 @@
         "9"
       ]
     },
-    "बैतडी": {
-      "डीलासैनी Rural Municipality": [
+    "Baitadi": {
+      "Dilasaini Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8140,7 +8140,7 @@
         "6",
         "7"
       ],
-      "दशरथचन्द Municipality": [
+      "Dashrathchanda Municipality": [
         "1",
         "2",
         "3",
@@ -8153,7 +8153,7 @@
         "10",
         "11"
       ],
-      "दोगडाकेदार Rural Municipality": [
+      "Dogadakedar Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8163,7 +8163,7 @@
         "7",
         "8"
       ],
-      "पन्चेश्वर Rural Municipality": [
+      "Pancheshwar Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8171,7 +8171,7 @@
         "5",
         "6"
       ],
-      "पाटन Municipality": [
+      "Patan Municipality": [
         "1",
         "2",
         "3",
@@ -8183,7 +8183,7 @@
         "9",
         "10"
       ],
-      "पुर्चौडी Municipality": [
+      "Purchaudi Municipality": [
         "1",
         "2",
         "3",
@@ -8195,7 +8195,7 @@
         "9",
         "10"
       ],
-      "मेलौली Municipality": [
+      "Melauli Municipality": [
         "1",
         "2",
         "3",
@@ -8206,7 +8206,7 @@
         "8",
         "9"
       ],
-      "शिवनाथ Rural Municipality": [
+      "Shivanath Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8214,7 +8214,7 @@
         "5",
         "6"
       ],
-      "सिगास Rural Municipality": [
+      "Sigas Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8225,7 +8225,7 @@
         "8",
         "9"
       ],
-      "सुर्नया Rural Municipality": [
+      "Surnaya Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8236,8 +8236,8 @@
         "8"
       ]
     },
-    "डडेलधुरा": {
-      "अजयमेरु Rural Municipality": [
+    "Dadeldhura": {
+      "Ajaymeru Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8245,7 +8245,7 @@
         "5",
         "6"
       ],
-      "अमरगढी Municipality": [
+      "Amargadhi Municipality": [
         "1",
         "2",
         "3",
@@ -8258,7 +8258,7 @@
         "10",
         "11"
       ],
-      "आलिताल Rural Municipality": [
+      "Alital Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8268,21 +8268,21 @@
         "7",
         "8"
       ],
-      "गन्यापधुरा Rural Municipality": [
+      "Ganayapdhura Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "नवदुर्गा Rural Municipality": [
+      "Nawadurga Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "परशुराम Municipality": [
+      "Parshuram Municipality": [
         "1",
         "2",
         "3",
@@ -8296,7 +8296,7 @@
         "11",
         "12"
       ],
-      "भागेश्वर Rural Municipality": [
+      "Bhageshwar Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8304,8 +8304,8 @@
         "5"
       ]
     },
-    "कन्चनपुर": {
-      "कृष्णपुर Municipality": [
+    "Kanchanpur": {
+      "Krishnapur Municipality": [
         "1",
         "2",
         "3",
@@ -8316,7 +8316,7 @@
         "8",
         "9"
       ],
-      "पुनर्वास Municipality": [
+      "Punarbas Municipality": [
         "1",
         "2",
         "3",
@@ -8329,14 +8329,14 @@
         "10",
         "11"
       ],
-      "बेलडाडी Rural Municipality": [
+      "Beldandi Rural Municipality": [
         "1",
         "2",
         "3",
         "4",
         "5"
       ],
-      "बेलौरी Municipality": [
+      "Belauri Municipality": [
         "1",
         "2",
         "3",
@@ -8348,7 +8348,7 @@
         "9",
         "10"
       ],
-      "भीमदत्त Municipality": [
+      "Bhimdatta Municipality": [
         "1",
         "2",
         "3",
@@ -8369,7 +8369,7 @@
         "18",
         "19"
       ],
-      "दोधारा चाँदनी Municipality": [
+      "Dodhara Chandani Municipality": [
         "1",
         "2",
         "3",
@@ -8381,7 +8381,7 @@
         "9",
         "10"
       ],
-      "लालझाँडी Rural Municipality": [
+      "Laljhadi Rural Municipality": [
         "1",
         "2",
         "3",
@@ -8389,7 +8389,7 @@
         "5",
         "6"
       ],
-      "वेदकोट Municipality": [
+      "Bedkot Municipality": [
         "1",
         "2",
         "3",
@@ -8401,7 +8401,7 @@
         "9",
         "10"
       ],
-      "सुक्लाफाँटा Municipality": [
+      "Shuklaphanta Municipality": [
         "1",
         "2",
         "3",
@@ -8418,3 +8418,4 @@
     }
   }
 }
+
