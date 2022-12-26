@@ -31,7 +31,7 @@ Feel free to use it in your projects.
 
 
 <a href = "https://github.com/slithery0/location-np/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = slithery0/location-np"/>
+  <img src = "https://contrib.rocks/image?repo=slithery0/location-np"/>
 </a>
 
 Made with [contributors-img](https://contrib.rocks).
