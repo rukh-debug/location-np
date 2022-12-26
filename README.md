@@ -30,7 +30,7 @@ Feel free to use it in your projects.
 ### Contributors
 
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+<a href = "https://github.com/slithery0/location-np/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo = slithery0/location-np"/>
 </a>
 
