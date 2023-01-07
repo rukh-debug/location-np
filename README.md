@@ -27,6 +27,17 @@ Feel free to use it in your projects.
 - [x] Translate to eng
 
 
+### Run
+
+To see how it was fetched
+```
+git clone https://github.com/slithery0/location-np
+cd location-np
+npm install
+npm strat
+
+```
+
 ### Contributors
 
 
