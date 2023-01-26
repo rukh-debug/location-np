@@ -34,8 +34,7 @@ To see how it was fetched
 git clone https://github.com/slithery0/location-np
 cd location-np
 npm install
-npm strat
-
+npm start
 ```
 
 ### Contributors
