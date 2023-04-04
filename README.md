@@ -6,6 +6,8 @@ Here is a json file with all the locations of nepal, data range available from P
 
 Feel free to use it in your projects.
 
+https://rubenk.com.np/location-np/
+
 ##### Data format
 
 ```
@@ -25,7 +27,6 @@ Feel free to use it in your projects.
 ### Todo
 
 - [x] Translate to eng
-
 
 ### Run
 
