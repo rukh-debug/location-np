@@ -91,40 +91,4 @@ let countItem = async (page, whatToCount) => {
     }
     console.log("JSON written, File saved.");
   });
-
-  // console.log(data)
-  // $("option").each(async (i, el) => {
-  //   if (i !== 0) {
-  //     await page.select("#state", i.toString());
-  //     console.log("hi")
-  //     const outerElement2 = await page.evaluate(
-  //       () => document.querySelector("#district").outerHTML
-  //     );
-  //     console.log("hello")
-  //     const $2 = cheerio.load(outerElement2);
-  //     console.log("me")
-  //     let numofdistrict = $("option").length - 1;
-  //     console.log('cd')
-  //     $2("option").each(async (i, el) => {
-  //       console.log(i)
-  //       if (i !== 0) {
-  //         await page.select("#district", "68");
-  //       }
-  //     });
-  //     console.log("hhh")
-  //     data = {
-  //       ...data,
-  //       [$(el).text()]: {},
-  //     };
-  //     // console.log(data)
-  //   }
-  // });
-  // console.log(data)
-  // for (i = 0; i < numofstate; i++) {
-  //   data = {
-  //     ...data,
-  //     [$("option").text]: {}
-  //   }
-  //   console.log(data)
-  // }
 })();
