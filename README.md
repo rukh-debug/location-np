@@ -32,7 +32,7 @@ https://rubenk.com.np/location-np/
 
 To see how it was fetched
 ```
-git clone https://github.com/slithery0/location-np
+git clone https://github.com/rukh-debug/location-np
 cd location-np
 npm install
 npm start
@@ -41,8 +41,8 @@ npm start
 ### Contributors
 
 
-<a href = "https://github.com/slithery0/location-np/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=slithery0/location-np"/>
+<a href = "https://github.com/rukh-debug/location-np/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=rukh-debug/location-np"/>
 </a>
 
 Made with [contributors-img](https://contrib.rocks).
